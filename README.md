@@ -1,4 +1,3 @@
-# testeCase
 # Open Brewery Data Lake Documentation
 
 ## Project Overview
