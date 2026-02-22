@@ -1,0 +1,4193 @@
+country,state_province,city,brewery_count
+Australia,ACT,Fyshwick,4
+Australia,ACT,Braddon,2
+Australia,ACT,Gungahlin,1
+Australia,NSW,Marrickville,12
+Australia,NSW,Brookvale,6
+Australia,NSW,Alexandria,4
+Australia,NSW,Botany,4
+Australia,NSW,South Murwillumbah,4
+Australia,NSW,Armidale,3
+Australia,NSW,Newtown,3
+Australia,NSW,Port Macquarie,3
+Australia,NSW,Saint Peters,3
+Australia,NSW,Yenda,3
+Australia,NSW,Bathurst,2
+Australia,NSW,Clarence,2
+Australia,NSW,Emu Plains,2
+Australia,NSW,Erina,2
+Australia,NSW,Forster,2
+Australia,NSW,Gosford,2
+Australia,NSW,Goulburn,2
+Australia,NSW,Huskisson,2
+Australia,NSW,Islington,2
+Australia,NSW,Monteagle,2
+Australia,NSW,Morisset,2
+Australia,NSW,Mudgee,2
+Australia,NSW,North Bondi,2
+Australia,NSW,Pokolbin,2
+Australia,NSW,Rozelle,2
+Australia,NSW,Surry Hills,2
+Australia,NSW,The Rocks,2
+Australia,NSW,Tumut,2
+Australia,NSW,Uralla,2
+Australia,NSW,Woolgoolga,2
+Australia,NSW,Aberglasslyn,1
+Australia,NSW,Artarmon,1
+Australia,NSW,Ballina,1
+Australia,NSW,Bangalow,1
+Australia,NSW,Bankstown,1
+Australia,NSW,Beresfield,1
+Australia,NSW,Bilpin,1
+Australia,NSW,Bobs Farm,1
+Australia,NSW,Bowan Park,1
+Australia,NSW,Broadmeadow,1
+Australia,NSW,Broulee,1
+Australia,NSW,Bulli,1
+Australia,NSW,Byron Bay,1
+Australia,NSW,Camperdown,1
+Australia,NSW,Caringbah,1
+Australia,NSW,Coffs Harbour,1
+Australia,NSW,Cudgen,1
+Australia,NSW,Dalmeny,1
+Australia,NSW,Deepwater,1
+Australia,NSW,Dubbo,1
+Australia,NSW,Enmore,1
+Australia,NSW,Fairy Meadow,1
+Australia,NSW,Five Dock,1
+Australia,NSW,Gerringong,1
+Australia,NSW,Gladesville,1
+Australia,NSW,Glebe,1
+Australia,NSW,Grafton,1
+Australia,NSW,Hornsby,1
+Australia,NSW,Kincumber,1
+Australia,NSW,Kirrawee,1
+Australia,NSW,Lambton,1
+Australia,NSW,Lidcombe,1
+Australia,NSW,Lilyfield,1
+Australia,NSW,Lord Howe Island,1
+Australia,NSW,Mittagong,1
+Australia,NSW,Mona Vale,1
+Australia,NSW,Mullumbimby,1
+Australia,NSW,Murwillumbah,1
+Australia,NSW,Narellan,1
+Australia,NSW,Narooma,1
+Australia,NSW,Newcastle,1
+Australia,NSW,North Parramatta,1
+Australia,NSW,North Richmond,1
+Australia,NSW,Orange,1
+Australia,NSW,Penrith,1
+Australia,NSW,Rosebery,1
+Australia,NSW,South Albury,1
+Australia,NSW,South Kempsey,1
+Australia,NSW,South Lismore,1
+Australia,NSW,South Nowra,1
+Australia,NSW,Stony Creek,1
+Australia,NSW,Tarrawanna,1
+Australia,NSW,Townsend,1
+Australia,NSW,Tumbarumba,1
+Australia,NSW,Unanderra,1
+Australia,NSW,Warriewood,1
+Australia,NSW,Wollongong,1
+Australia,NSW,Woodburn,1
+Australia,NSW,Yamba,1
+Australia,NT,Coconut Grove,1
+Australia,NT,Marrakai,1
+Australia,NT,Ross,1
+Australia,QLD,Burleigh Heads,5
+Australia,QLD,Salisbury,4
+Australia,QLD,Yeerongpilly,3
+Australia,QLD,Albion,2
+Australia,QLD,Cairns City,2
+Australia,QLD,Currumbin Waters,2
+Australia,QLD,Domestic Airport,2
+Australia,QLD,Fortitude Valley,2
+Australia,QLD,Milton,2
+Australia,QLD,Morningside,2
+Australia,QLD,Noosaville,2
+Australia,QLD,Tamborine Mountain,2
+Australia,QLD,Toowoomba City,2
+Australia,QLD,Warana,2
+Australia,QLD,Woolloongabba,2
+Australia,QLD,Arundel,1
+Australia,QLD,Ashmore,1
+Australia,QLD,Atherton,1
+Australia,QLD,Banyo,1
+Australia,QLD,Brendale,1
+Australia,QLD,Brisbane City,1
+Australia,QLD,Bulimba,1
+Australia,QLD,Burpengary,1
+Australia,QLD,Capalaba,1
+Australia,QLD,Cooran,1
+Australia,QLD,Coorparoo,1
+Australia,QLD,Dunwich,1
+Australia,QLD,Eagleby,1
+Australia,QLD,East Brisbane,1
+Australia,QLD,Edmonton,1
+Australia,QLD,Forest Glen,1
+Australia,QLD,Garbutt,1
+Australia,QLD,Gladstone Central,1
+Australia,QLD,Hidden Valley,1
+Australia,QLD,Highfields,1
+Australia,QLD,Ipswich,1
+Australia,QLD,Kuluin,1
+Australia,QLD,Kunda Park,1
+Australia,QLD,Maleny,1
+Australia,QLD,Marcoola,1
+Australia,QLD,Miami,1
+Australia,QLD,Moffat Beach,1
+Australia,QLD,Mooloolaba,1
+Australia,QLD,Newstead,1
+Australia,QLD,North Arm,1
+Australia,QLD,Northgate,1
+Australia,QLD,Petrie Terrace,1
+Australia,QLD,Picnic Bay,1
+Australia,QLD,Rural View,1
+Australia,QLD,Scarborough,1
+Australia,QLD,Smithfield,1
+Australia,QLD,South Townsville,1
+Australia,QLD,Stafford,1
+Australia,QLD,Stapylton,1
+Australia,QLD,Teneriffe,1
+Australia,QLD,Townsville City,1
+Australia,QLD,Warwick,1
+Australia,QLD,West End,1
+Australia,QLD,Wynnum,1
+Australia,QLD,Yeppoon,1
+Australia,SA,Adelaide,3
+Australia,SA,McLaren Flat,3
+Australia,SA,Port Adelaide,3
+Australia,SA,Willunga,3
+Australia,SA,McLaren Vale,2
+Australia,SA,Port Lincoln,2
+Australia,SA,Royal Park,2
+Australia,SA,Stepney,2
+Australia,SA,Aldinga,1
+Australia,SA,Bowden,1
+Australia,SA,Brooklyn Park,1
+Australia,SA,Findon,1
+Australia,SA,Gawler River,1
+Australia,SA,Glynde,1
+Australia,SA,Langhorne Creek,1
+Australia,SA,Laura,1
+Australia,SA,Lobethal,1
+Australia,SA,Lonsdale,1
+Australia,SA,Lyndoch,1
+Australia,SA,Minlaton,1
+Australia,SA,Mount Gambier,1
+Australia,SA,Murtho,1
+Australia,SA,Myponga,1
+Australia,SA,Parachilna,1
+Australia,SA,Polish Hill River,1
+Australia,SA,Regency Park,1
+Australia,SA,Robe,1
+Australia,SA,Saint Agnes,1
+Australia,SA,Tanunda,1
+Australia,SA,Thebarton,1
+Australia,SA,Totness,1
+Australia,SA,Uraidla,1
+Australia,SA,Urrbrae,1
+Australia,SA,Wangolina,1
+Australia,SA,Yahl,1
+Australia,TAS,Hobart,3
+Australia,TAS,Bicheno,2
+Australia,TAS,Launceston,2
+Australia,TAS,North Hobart,2
+Australia,TAS,Beaconsfield,1
+Australia,TAS,Burnie,1
+Australia,TAS,Cambridge,1
+Australia,TAS,Deloraine,1
+Australia,TAS,Derwent Park,1
+Australia,TAS,Devonport,1
+Australia,TAS,Evandale,1
+Australia,TAS,Four Mile Creek,1
+Australia,TAS,Moonah,1
+Australia,TAS,New Norfolk,1
+Australia,TAS,Pegarah,1
+Australia,TAS,Pontville,1
+Australia,TAS,Port Arthur,1
+Australia,TAS,Richmond,1
+Australia,TAS,Scottsdale,1
+Australia,TAS,South Hobart,1
+Australia,TAS,Ulverstone,1
+Australia,VIC,Brunswick,8
+Australia,VIC,Keilor Park,7
+Australia,VIC,Abbotsford,6
+Australia,VIC,South Melbourne,6
+Australia,VIC,Collingwood,5
+Australia,VIC,Cowes,5
+Australia,VIC,Preston,5
+Australia,VIC,Richmond,5
+Australia,VIC,Dromana,4
+Australia,VIC,Port Melbourne,4
+Australia,VIC,Rowville,4
+Australia,VIC,Brunswick East,3
+Australia,VIC,Clifton Hill,3
+Australia,VIC,Mordialloc,3
+Australia,VIC,Reservoir,3
+Australia,VIC,Boronia,2
+Australia,VIC,Braeside,2
+Australia,VIC,Castlemaine,2
+Australia,VIC,Cheltenham,2
+Australia,VIC,Coburg,2
+Australia,VIC,Footscray,2
+Australia,VIC,Forrest,2
+Australia,VIC,Geelong,2
+Australia,VIC,Grovedale,2
+Australia,VIC,Hawthorn,2
+Australia,VIC,Healesville,2
+Australia,VIC,Kensington,2
+Australia,VIC,Lilydale,2
+Australia,VIC,Melbourne,2
+Australia,VIC,Mornington,2
+Australia,VIC,Aireys Inlet,1
+Australia,VIC,Barongarook,1
+Australia,VIC,Bayswater,1
+Australia,VIC,Beechworth,1
+Australia,VIC,Belmont,1
+Australia,VIC,Bendigo,1
+Australia,VIC,Berwick,1
+Australia,VIC,Bright,1
+Australia,VIC,Campbellfield,1
+Australia,VIC,Carrum Downs,1
+Australia,VIC,Coldstream,1
+Australia,VIC,Dandenong,1
+Australia,VIC,Docklands,1
+Australia,VIC,Fingal,1
+Australia,VIC,Fitzroy,1
+Australia,VIC,Gateway Island,1
+Australia,VIC,Glen Iris,1
+Australia,VIC,Grahamvale,1
+Australia,VIC,Halls Gap,1
+Australia,VIC,Hastings,1
+Australia,VIC,Hepburn Springs,1
+Australia,VIC,Horsham,1
+Australia,VIC,Huntingdale,1
+Australia,VIC,Jamieson,1
+Australia,VIC,Koroit,1
+Australia,VIC,Korumburra,1
+Australia,VIC,Lancefield,1
+Australia,VIC,Loch,1
+Australia,VIC,Malvern,1
+Australia,VIC,Mansfield,1
+Australia,VIC,Marlo,1
+Australia,VIC,Meering West,1
+Australia,VIC,Mildura,1
+Australia,VIC,Mirboo North,1
+Australia,VIC,Mitta Mitta,1
+Australia,VIC,Mount Beauty,1
+Australia,VIC,Mount Pleasant,1
+Australia,VIC,North Geelong,1
+Australia,VIC,Pakenham,1
+Australia,VIC,Red Hill South,1
+Australia,VIC,Ringwood,1
+Australia,VIC,Seaford,1
+Australia,VIC,Shepparton,1
+Australia,VIC,Somerville,1
+Australia,VIC,South Geelong,1
+Australia,VIC,Spotswood,1
+Australia,VIC,Strath Creek,1
+Australia,VIC,Sunshine,1
+Australia,VIC,Taminick,1
+Australia,VIC,Tawonga South,1
+Australia,VIC,Thornbury,1
+Australia,VIC,Tooborac,1
+Australia,VIC,Torquay,1
+Australia,VIC,Traralgon East,1
+Australia,VIC,Tuerong,1
+Australia,VIC,Wendouree,1
+Australia,VIC,Whitfield,1
+Australia,VIC,Woodend,1
+Australia,VIC,Yarraville,1
+Australia,WA,Baskerville,2
+Australia,WA,Exmouth,2
+Australia,WA,Fremantle,2
+Australia,WA,Henley Brook,2
+Australia,WA,Palmyra,2
+Australia,WA,Wilyabrup,2
+Australia,WA,Yallingup,2
+Australia,WA,Albany,1
+Australia,WA,Bassendean,1
+Australia,WA,Bibra Lake,1
+Australia,WA,Burswood,1
+Australia,WA,Busselton,1
+Australia,WA,Canning Vale,1
+Australia,WA,Cowaramup,1
+Australia,WA,Eagle Bay,1
+Australia,WA,Erskine,1
+Australia,WA,Esperance,1
+Australia,WA,Falcon,1
+Australia,WA,Ferguson,1
+Australia,WA,Herron,1
+Australia,WA,Hillarys,1
+Australia,WA,Kalbarri,1
+Australia,WA,Karratha Industrial Estate,1
+Australia,WA,Manjimup,1
+Australia,WA,Margaret River,1
+Australia,WA,Maylands,1
+Australia,WA,Metricup,1
+Australia,WA,Middle Swan,1
+Australia,WA,Mindarie,1
+Australia,WA,Moora,1
+Australia,WA,Myalup,1
+Australia,WA,Myaree,1
+Australia,WA,Northbridge,1
+Australia,WA,Oldbury,1
+Australia,WA,South Fremantle,1
+Australia,WA,Subiaco,1
+Australia,WA,Victoria Park,1
+Australia,WA,West Perth,1
+Australia,WA,Wokalup,1
+Austria,K�rnten,Klagenfurt am W�rthersee,1
+Austria,K�rnten,Villach,1
+Austria,K�rnten,Wimitz,1
+Austria,Nieder�sterreich,Schwechat,1
+Austria,Nieder�sterreich,Wieselburg,1
+Austria,Oberösterreich,Engelhartszell,1
+Austria,Oberösterreich,Zipf,1
+Austria,Salzburg,Salzburg,1
+Austria,Steiermark,Graz,1
+Austria,Steiermark,Kalsdorf bei Graz,1
+Austria,Steiermark,Leoben,1
+Austria,Steiermark,Murau,1
+Austria,Steiermark,Schladming,1
+Austria,Steiermark,Weiz,1
+Austria,Steiermark,Wundschuh,1
+Canada,British Columbia,Vancouver,25
+Canada,British Columbia,Victoria,8
+Canada,British Columbia,Kelowna,7
+Canada,British Columbia,North Vancouver,7
+Canada,British Columbia,Penticton,4
+Canada,British Columbia,Surrey,4
+Canada,British Columbia,Abbotsford,3
+Canada,British Columbia,Burnaby,3
+Canada,British Columbia,Delta,3
+Canada,British Columbia,Duncan,3
+Canada,British Columbia,Nanaimo,3
+Canada,British Columbia,Port Moody,3
+Canada,British Columbia,Summerland,3
+Canada,British Columbia,Kamloops,2
+Canada,British Columbia,Nelson,2
+Canada,British Columbia,New Westminster,2
+Canada,British Columbia,Prince George,2
+Canada,British Columbia,Trail,2
+Canada,British Columbia,Vernon,2
+Canada,British Columbia,Aldergrove,1
+Canada,British Columbia,Chemainus,1
+Canada,British Columbia,Chilliwack,1
+Canada,British Columbia,Courtenay,1
+Canada,British Columbia,Cranbrook,1
+Canada,British Columbia,Cumberland,1
+Canada,British Columbia,Fernie,1
+Canada,British Columbia,Fort Langley,1
+Canada,British Columbia,Fort St. John,1
+Canada,British Columbia,Gibsons,1
+Canada,British Columbia,Hornby Island,1
+Canada,British Columbia,Langley,1
+Canada,British Columbia,Logan Lake,1
+Canada,British Columbia,Maple Ridge,1
+Canada,British Columbia,Mission,1
+Canada,British Columbia,Naramata,1
+Canada,British Columbia,Pitt Meadows,1
+Canada,British Columbia,Port Coquitlam,1
+Canada,British Columbia,Powell River,1
+Canada,British Columbia,Quesnel,1
+Canada,British Columbia,Revelstoke,1
+Canada,British Columbia,Richmond,1
+Canada,British Columbia,Saanichton,1
+Canada,British Columbia,Salmon Arm,1
+Canada,British Columbia,Sooke,1
+Canada,British Columbia,Sorrento,1
+Canada,British Columbia,Squamish,1
+Canada,British Columbia,Tofino,1
+Canada,British Columbia,Valemount,1
+Canada,British Columbia,Whistler,1
+Canada,British Columbia,White Rock,1
+England,East Sussex,Brighton,8
+England,East Sussex,Lewes,6
+England,East Sussex,Uckfield,3
+England,East Sussex,Hastings,2
+England,East Sussex,Hove,2
+England,East Sussex,Rye,2
+England,East Sussex,Battle,1
+England,East Sussex,Eastbourne,1
+England,East Sussex,Forest Row,1
+England,East Sussex,Hailshame,1
+England,East Sussex,Heathfield,1
+England,East Sussex,Polegate,1
+England,East Sussex,Sheffield Park,1
+England,East Sussex,Tunbridge Wells,1
+England,West Sussex,Horsham,7
+England,West Sussex,Chichester,3
+England,West Sussex,Hassocks,3
+England,West Sussex,Pulborough,3
+England,West Sussex,Worthing,3
+England,West Sussex,Arundel,2
+England,West Sussex,East Grinstead,2
+England,West Sussex,Haywards Heath,2
+England,West Sussex,Steyning,2
+England,West Sussex,Billinghurst,1
+England,West Sussex,Lancing,1
+England,West Sussex,Petworth,1
+England,West Sussex,Shoreham-by-Sea,1
+France,Bouche du Rhône,Marseille,2
+France,Bouche du Rhône,Vitrolles,1
+Germany,Berlin,Berlin,10
+Ireland,Carlow,Bagenalstown,1
+Ireland,Clare,Lisdoonvarna,1
+Ireland,Cork,Cork,5
+Ireland,Cork,Baltimore,1
+Ireland,Cork,Kinsale,1
+Ireland,Cork,Macroom,1
+Ireland,Cork,Mayfield,1
+Ireland,Cork,Mitchelstown,1
+Ireland,Cork,Youghal,1
+Ireland,Donegal,Ballyshannon,1
+Ireland,Donegal,Convoy,1
+Ireland,Donegal,Letterkenny,1
+Ireland,Donegal,Muff,1
+Ireland,Dublin,Dublin,11
+Ireland,Dublin,Ballyfermot,1
+Ireland,Dublin,Inchicore,1
+Ireland,Dublin,Kimmage,1
+Ireland,Dublin,Rathcoole,1
+Ireland,Dublin,Tallaght,1
+Ireland,Galway,Oranmore,2
+Ireland,Galway,Clifden,1
+Ireland,Kerry,Killarney,2
+Ireland,Kerry,Ballyferriter,1
+Ireland,Kildare,Celbridge,1
+Ireland,Kildare,Kill,1
+Ireland,Kildare,Sallins,1
+Ireland,Kilkenny,Kilkenny,3
+Ireland,Laois,Killeshin,1
+Ireland,Laois,Stradbally,1
+Ireland,Limerick,Limerick,2
+Ireland,Longford,Longford,1
+Ireland,Louth,Carlingford,1
+Ireland,Mayo,Crossmolina,1
+Ireland,Mayo,Kilsallagh,1
+Ireland,Meath,Trim,1
+Ireland,Monaghan,Carrickmacross,1
+Ireland,Offaly,Banagher,1
+Ireland,Offaly,Kinnitty,1
+Ireland,Roscommon,Ballinlough,1
+Ireland,Sligo,Ballymote,1
+Ireland,Sligo,Cleveragh,1
+Ireland,Tipperary,Roscrea,1
+Ireland,Tipperary,Templemore,1
+Ireland,Waterford,Dungarvan,1
+Ireland,Waterford,Waterford,1
+Ireland,Westmeath,Athlone,1
+Ireland,Wexford,Wexford,2
+Ireland,Wicklow,Bray,1
+Ireland,Wicklow,Kilcool,1
+Ireland,Wicklow,Redcross,1
+Isle of Man,Middle,Braddan,1
+Isle of Man,Middle,Kewaigue,1
+Italy,Bolzano,Bolzano,1
+Italy,Bolzano,Chiusa,1
+Italy,Bolzano,Lagundo,1
+Italy,Bolzano,Salorno,1
+Japan,Osaka,Osaka,7
+Japan,Osaka,Ibaraki,1
+Japan,Osaka,Minoh,1
+Japan,Osaka,Takatsuki,1
+Poland,dolnośląskie,Wrocław,7
+Poland,dolnośląskie,Bielawa,1
+Poland,dolnośląskie,Chrząstawa Mała,1
+Poland,dolnośląskie,Duszniki-Zdrój,1
+Poland,dolnośląskie,Jedlina-Zdrój,1
+Poland,dolnośląskie,Jelcz-Laskowice,1
+Poland,dolnośląskie,Kamienica,1
+Poland,dolnośląskie,Karpacz,1
+Poland,dolnośląskie,Kąty Wrocławskie,1
+Poland,dolnośląskie,Legnica,1
+Poland,dolnośląskie,Legnickie Pole,1
+Poland,dolnośląskie,Lwówek Śląski,1
+Poland,dolnośląskie,Miedzianka,1
+Poland,dolnośląskie,Milicz,1
+Poland,dolnośląskie,Niechlów,1
+Poland,dolnośląskie,Nowe Rochowice,1
+Poland,dolnośląskie,Oborniki Śląskie,1
+Poland,dolnośląskie,Oława,1
+Poland,dolnośląskie,Sobótka,1
+Poland,dolnośląskie,Sobótka-Górka,1
+Poland,dolnośląskie,Sulistrowiczki,1
+Poland,dolnośląskie,Syców,1
+Poland,dolnośląskie,Szklarska Poręba,1
+Poland,dolnośląskie,Trzebnica,1
+Poland,dolnośląskie,Wleń,1
+Poland,dolnośląskie,Łomnica,1
+Poland,dolnośląskie,Świdnica,1
+Poland,dolnośląskie,Żarów,1
+Portugal,Aveiro,Anadia,1
+Portugal,Aveiro,Oliveira de Azemeis,1
+Portugal,Beja,Beja,1
+Portugal,Coimbra,Santa Clara,1
+Portugal,Faro,Faro,1
+Portugal,Leiria,Colmeias,1
+Portugal,Lisboa,Lisboa,2
+Portugal,Lisboa,Ericeira,1
+Portugal,Lisboa,Estoril,1
+Portugal,Lisboa,Sintra,1
+Portugal,Portalegre,Santo António das Areias,1
+Portugal,Porto,Porto,2
+Scotland,Argyll,Cairndow,1
+Scotland,Argyll,Isle of Colonsay,1
+Scotland,Argyll,Isle of Islay,1
+Scotland,Argyll,Oban,1
+Scotland,Bute,Isle of Bute,1
+Scotland,East Dunbartonshire,Milngavie,1
+Scotland,West Dunbartonshire,Dumbarton,2
+Scotland,West Dunbartonshire,Alexandria,1
+Scotland,West Dunbartonshire,Clydebank,1
+Singapore,Singapore,Singapore,33
+South Africa,Eastern Cape,East London,2
+South Africa,Eastern Cape,Gqeberha,2
+South Africa,Eastern Cape,Hogsback,1
+South Africa,Eastern Cape,Jeffreys Bay,1
+South Africa,Eastern Cape,Makhanda,1
+South Africa,Eastern Cape,Nieu-Bethesda,1
+South Africa,Eastern Cape,Storms River,1
+South Africa,Free State,Clarens,1
+South Africa,Free State,Dewetsdorp,1
+South Africa,Free State,Fouriesburg,1
+South Africa,Gauteng,Pretoria,7
+South Africa,Gauteng,Johannesburg,2
+South Africa,Gauteng,Arlington,1
+South Africa,Gauteng,Centurion,1
+South Africa,Gauteng,Magaliesburg,1
+South Africa,Gauteng,Meyerton,1
+South Africa,Gauteng,Muldersdrift,1
+South Africa,Gauteng,Randburg,1
+South Africa,Gauteng,Salt River,1
+South Africa,Gauteng,Sandton,1
+South Africa,KwaZulu-Natal,Durban,4
+South Africa,KwaZulu-Natal,Nottingham Road,2
+South Africa,KwaZulu-Natal,Amanzimtoti,1
+South Africa,KwaZulu-Natal,Balgowan,1
+South Africa,KwaZulu-Natal,Ballito,1
+South Africa,KwaZulu-Natal,Cartwrights flat,1
+South Africa,KwaZulu-Natal,Eshowe,1
+South Africa,KwaZulu-Natal,Lidgetton,1
+South Africa,KwaZulu-Natal,Mount Edgecombe,1
+South Africa,KwaZulu-Natal,Pennington,1
+South Africa,KwaZulu-Natal,Umbogintwini,1
+South Africa,KwaZulu-Natal,Umdloti,1
+South Africa,KwaZulu-Natal,Winterton,1
+South Africa,Limpopo,Haenertsburg,1
+South Africa,Mpumalanga,Dullstroom,1
+South Africa,Mpumalanga,Lydenburg,1
+South Africa,Mpumalanga,Sabie,1
+South Africa,North West,Hartbeespoort,2
+South Africa,North West,Potchefstroom,1
+South Africa,Western Cape,Cape Town,13
+South Africa,Western Cape,Somerset West,4
+South Africa,Western Cape,Franschhoek,3
+South Africa,Western Cape,Paarl,3
+South Africa,Western Cape,Ceres,2
+South Africa,Western Cape,Durbanville,2
+South Africa,Western Cape,Hermanus,2
+South Africa,Western Cape,Robertson,2
+South Africa,Western Cape,Stellenbosch,2
+South Africa,Western Cape,Barrydale,1
+South Africa,Western Cape,Bellville,1
+South Africa,Western Cape,Bot River,1
+South Africa,Western Cape,Bredasdorp,1
+South Africa,Western Cape,Darling,1
+South Africa,Western Cape,Greyton,1
+South Africa,Western Cape,Groot Drakenstein,1
+South Africa,Western Cape,Hopefield,1
+South Africa,Western Cape,Knysna,1
+South Africa,Western Cape,Laingsburg,1
+South Africa,Western Cape,Nieuwoudtville,1
+South Africa,Western Cape,Oudtshoorn,1
+South Africa,Western Cape,Plettenberg Bay,1
+South Africa,Western Cape,Sedgefield,1
+South Africa,Western Cape,Simondium,1
+South Africa,Western Cape,Stanford,1
+South Africa,Western Cape,Vredendal,1
+South Africa,Western Cape,Worcester,1
+South Korea,Busan,Haeundae-gu,2
+South Korea,Busan,Suyeong-gu,2
+South Korea,Busan,Busanjin-gu,1
+South Korea,Busan,Dongnae-gu,1
+South Korea,Busan,Gangseo-gu,1
+South Korea,Busan,Geumjeong-gu,1
+South Korea,Busan,Gijang-eup,1
+South Korea,Chungcheongbukdo,Chungju-si,1
+South Korea,Chungcheongnamdo,Dangjin-si,1
+South Korea,Chungcheongnamdo,Gongju-si,1
+South Korea,Chungcheongnamdo,Seosan-si,1
+South Korea,Daejeon,Seo-gu,1
+South Korea,Deagu,Jung-gu,1
+South Korea,Gangwondo,Chuncheon-si,2
+South Korea,Gangwondo,Gangneung-si,2
+South Korea,Gangwondo,Jeongseon-gun,1
+South Korea,Gangwondo,Pyeongchang-gun,1
+South Korea,Gangwondo,Sokcho-si,1
+South Korea,Gwangju,Gwangsan-gu,1
+South Korea,Gyeonggido,Namyangju-si,2
+South Korea,Gyeonggido,Dongducheon-si,1
+South Korea,Gyeonggido,Gapyeong-gun,1
+South Korea,Gyeonggido,Goyang-si,1
+South Korea,Gyeonggido,Guri-si,1
+South Korea,Gyeonggido,Seongnam-si,1
+South Korea,Gyeonggido,Suwon-si,1
+South Korea,Gyeonggido,Yongin-si,1
+South Korea,Gyeongsangbukdo,Andong-si,2
+South Korea,Gyeongsangbukdo,Mungyeong-si,1
+South Korea,Gyeongsangnamdo,Changwon-si,1
+South Korea,Gyeongsangnamdo,Namhae-gun,1
+South Korea,Gyeongsangnamdo,Tongyeong-si,1
+South Korea,Incheon,Jung-gu,1
+South Korea,Incheon,Yeonsu-gu,1
+South Korea,Jejudo,Seogwipo-si,2
+South Korea,Jejudo,Jeju-si,1
+South Korea,Jeollabukdo,Jeonju-si,2
+South Korea,Jeollabukdo,Jangsu-gun,1
+South Korea,Jeollanamdo,Suncheon-si,1
+South Korea,Seoul,Mapo-gu,3
+South Korea,Seoul,Yongsan-gu,2
+South Korea,Seoul,Gangnam-gu,1
+South Korea,Seoul,Gwangjin-gu,1
+South Korea,Seoul,Jongno-gu,1
+South Korea,Seoul,Jung-gu,1
+South Korea,Seoul,Seocho-gu,1
+South Korea,Seoul,Seodaemun-gu,1
+South Korea,Seoul,Seongdong-gu,1
+South Korea,Seoul,Songpa-gu,1
+South Korea,Seoul,Yeongdeungpo-gu,1
+Sweden,Blekinge,Karlskrona,4
+Sweden,Blekinge,Karlshamn,1
+Sweden,Blekinge,Nättraby,1
+Sweden,Halland,Halmstad,2
+Sweden,Halland,Varberg,1
+Sweden,Halland,Veddige,1
+Ukraine,Dnipropetrovsk Oblast,Dnipro,1
+United States,Alabama,Birmingham,10
+United States,Alabama,Huntsville,9
+United States,Alabama,Mobile,5
+United States,Alabama,Madison,3
+United States,Alabama,Tuscaloosa,3
+United States,Alabama,Florence,2
+United States,Alabama,Jasper,2
+United States,Alabama,Montgomery,2
+United States,Alabama,Trussville,2
+United States,Alabama,Alabaster,1
+United States,Alabama,Anniston,1
+United States,Alabama,Cullman,1
+United States,Alabama,Decatur,1
+United States,Alabama,Dothan,1
+United States,Alabama,Fairhope,1
+United States,Alabama,Gadsden,1
+United States,Alabama,Gulf Shores,1
+United States,Alabama,Guntersville,1
+United States,Alabama,Helena,1
+United States,Alabama,Opelika,1
+United States,Alabama,Phenix City,1
+United States,Alabama,Section,1
+United States,Alabama,Spanish Fort,1
+United States,Alaska,Anchorage,17
+United States,Alaska,Fairbanks,4
+United States,Alaska,Juneau,4
+United States,Alaska,Ketchikan,3
+United States,Alaska,Palmer,3
+United States,Alaska,Wasilla,3
+United States,Alaska,Eagle River,2
+United States,Alaska,Homer,2
+United States,Alaska,Kodiak,2
+United States,Alaska,Sitka,2
+United States,Alaska,Skagway,2
+United States,Alaska,Soldotna,2
+United States,Alaska,Valdez,2
+United States,Alaska,Big Lake,1
+United States,Alaska,Cooper Landing,1
+United States,Alaska,Cordova,1
+United States,Alaska,Gakona,1
+United States,Alaska,Girdwood,1
+United States,Alaska,Haines,1
+United States,Alaska,Healy,1
+United States,Alaska,Hoonah,1
+United States,Alaska,Kenai,1
+United States,Alaska,Nenana,1
+United States,Alaska,Seward,1
+United States,Alaska,Talkeetna,1
+United States,Arizona,Tucson,19
+United States,Arizona,Phoenix,18
+United States,Arizona,Scottsdale,11
+United States,Arizona,Flagstaff,9
+United States,Arizona,Tempe,9
+United States,Arizona,Chandler,6
+United States,Arizona,Gilbert,5
+United States,Arizona,Mesa,5
+United States,Arizona,Prescott,5
+United States,Arizona,Glendale,4
+United States,Arizona,Peoria,4
+United States,Arizona,Lake Havasu City,3
+United States,Arizona,Sedona,3
+United States,Arizona,Bisbee,2
+United States,Arizona,Kingman,2
+United States,Arizona,Williams,2
+United States,Arizona,Avondale,1
+United States,Arizona,Camp Verde,1
+United States,Arizona,Chino Valley,1
+United States,Arizona,Colorado City,1
+United States,Arizona,Cottonwood,1
+United States,Arizona,Elgin,1
+United States,Arizona,Goodyear,1
+United States,Arizona,Lakeside,1
+United States,Arizona,Marana,1
+United States,Arizona,Pine,1
+United States,Arizona,Prescott Valley,1
+United States,Arizona,Queen Creek,1
+United States,Arizona,Show Low,1
+United States,Arizona,Skull Valley,1
+United States,Arizona,Sonoita,1
+United States,Arizona,Surprise,1
+United States,Arizona,Tombstone,1
+United States,Arizona,Yuma,1
+United States,Arkansas,Little Rock,10
+United States,Arkansas,Fayetteville,8
+United States,Arkansas,Rogers,5
+United States,Arkansas,Bentonville,2
+United States,Arkansas,Hot Springs National Park,2
+United States,Arkansas,North Little Rock,2
+United States,Arkansas,Springdale,2
+United States,Arkansas,Amity,1
+United States,Arkansas,Big Flat,1
+United States,Arkansas,Bonnerdale,1
+United States,Arkansas,Eureka Springs,1
+United States,Arkansas,Fort Smith,1
+United States,Arkansas,Harrison,1
+United States,Arkansas,Hot Springs,1
+United States,Arkansas,Lowell,1
+United States,Arkansas,Mountain Home,1
+United States,Arkansas,Norfork,1
+United States,Arkansas,Paragould,1
+United States,Arkansas,Paris,1
+United States,Arkansas,fayetteville,1
+United States,Arkansas,rogers,1
+United States,California,San Diego,91
+United States,California,San Francisco,39
+United States,California,Los Angeles,25
+United States,California,Sacramento,21
+United States,California,Anaheim,18
+United States,California,Oakland,17
+United States,California,Vista,16
+United States,California,San Jose,15
+United States,California,Santa Rosa,15
+United States,California,Torrance,12
+United States,California,Carlsbad,11
+United States,California,Long Beach,11
+United States,California,Oceanside,11
+United States,California,Napa,10
+United States,California,Riverside,10
+United States,California,San Luis Obispo,10
+United States,California,Santa Cruz,10
+United States,California,Fresno,8
+United States,California,Ventura,8
+United States,California,Berkeley,7
+United States,California,Livermore,7
+United States,California,San Marcos,7
+United States,California,Santa Barbara,7
+United States,California,South Lake Tahoe,7
+United States,California,Temecula,7
+United States,California,Auburn,6
+United States,California,Paso Robles,6
+United States,California,Burbank,5
+United States,California,Chula Vista,5
+United States,California,Clovis,5
+United States,California,Corona,5
+United States,California,Escondido,5
+United States,California,Eureka,5
+United States,California,Fairfield,5
+United States,California,Pasadena,5
+United States,California,Rancho Cucamonga,5
+United States,California,Santa Ana,5
+United States,California,Bakersfield,4
+United States,California,Carpinteria,4
+United States,California,Chico,4
+United States,California,Costa Mesa,4
+United States,California,Covina,4
+United States,California,Davis,4
+United States,California,Elk Grove,4
+United States,California,Gardena,4
+United States,California,Goleta,4
+United States,California,Huntington Beach,4
+United States,California,La Jolla,4
+United States,California,Lodi,4
+United States,California,Murrieta,4
+United States,California,Novato,4
+United States,California,Orange,4
+United States,California,Petaluma,4
+United States,California,Placerville,4
+United States,California,Pomona,4
+United States,California,Rancho Cordova,4
+United States,California,Redding,4
+United States,California,Richmond,4
+United States,California,Rocklin,4
+United States,California,San Clemente,4
+United States,California,San Leandro,4
+United States,California,Santee,4
+United States,California,Sebastopol,4
+United States,California,Tustin,4
+United States,California,Upland,4
+United States,California,Westlake Village,4
+United States,California,Alameda,3
+United States,California,Atascadero,3
+United States,California,El Segundo,3
+United States,California,Fremont,3
+United States,California,Glendale,3
+United States,California,Half Moon Bay,3
+United States,California,Lemoore,3
+United States,California,Madera,3
+United States,California,Martinez,3
+United States,California,Monrovia,3
+United States,California,Oxnard,3
+United States,California,Placentia,3
+United States,California,Ramona,3
+United States,California,Redlands,3
+United States,California,San Pedro,3
+United States,California,Santa Maria,3
+United States,California,Stockton,3
+United States,California,Sunnyvale,3
+United States,California,Truckee,3
+United States,California,Venice,3
+United States,California,West Sacramento,3
+United States,California,Windsor,3
+United States,California,Agoura Hills,2
+United States,California,Apple Valley,2
+United States,California,Belmont,2
+United States,California,Big Bear Lake,2
+United States,California,Brea,2
+United States,California,Buellton,2
+United States,California,Calistoga,2
+United States,California,Camarillo,2
+United States,California,Camino,2
+United States,California,Campbell,2
+United States,California,Chatsworth,2
+United States,California,Cloverdale,2
+United States,California,Concord,2
+United States,California,Crescent City,2
+United States,California,Diamond Springs,2
+United States,California,Etna,2
+United States,California,Fullerton,2
+United States,California,Garden Valley,2
+United States,California,Grover Beach,2
+United States,California,Hawthorne,2
+United States,California,Hermosa Beach,2
+United States,California,Hesperia,2
+United States,California,Hollister,2
+United States,California,Imperial,2
+United States,California,Inglewood,2
+United States,California,Irvine,2
+United States,California,Julian,2
+United States,California,La Mesa,2
+United States,California,Lake Elsinore,2
+United States,California,Lakewood,2
+United States,California,Lancaster,2
+United States,California,Lincoln,2
+United States,California,Los Gatos,2
+United States,California,Mammoth Lakes,2
+United States,California,Mariposa,2
+United States,California,McKinleyville,2
+United States,California,Mill Valley,2
+United States,California,Monterey,2
+United States,California,Mountain View,2
+United States,California,Nevada City,2
+United States,California,Ontario,2
+United States,California,Oroville,2
+United States,California,Palmdale,2
+United States,California,Salinas,2
+United States,California,San Carlos,2
+United States,California,San Dimas,2
+United States,California,San Ramon,2
+United States,California,Santa Clara,2
+United States,California,Solana Beach,2
+United States,California,Sonoma,2
+United States,California,South San Francisco,2
+United States,California,Suisun City,2
+United States,California,Susanville,2
+United States,California,Thousand Oaks,2
+United States,California,Turlock,2
+United States,California,Ukiah,2
+United States,California,Vallejo,2
+United States,California,Van Nuys,2
+United States,California,Watsonville,2
+United States,California,Woodland Hills,2
+United States,California,Alamo,1
+United States,California,Aliso Viejo,1
+United States,California,American Canyon,1
+United States,California,Arcadia,1
+United States,California,Arcata,1
+United States,California,Arnold,1
+United States,California,Arroyo Grande,1
+United States,California,Avalon,1
+United States,California,Azusa,1
+United States,California,Banning,1
+United States,California,Bell,1
+United States,California,Benicia,1
+United States,California,Bishop,1
+United States,California,Blairsden,1
+United States,California,Blue Lake,1
+United States,California,Boonville,1
+United States,California,Burlingame,1
+United States,California,Burney,1
+United States,California,Cambria,1
+United States,California,Cameron Park,1
+United States,California,Canoga Park,1
+United States,California,Capitola,1
+United States,California,Carmichael,1
+United States,California,Cayucos,1
+United States,California,Ceres,1
+United States,California,Chino,1
+United States,California,Chino Hills,1
+United States,California,Claremont,1
+United States,California,Clearlake,1
+United States,California,Colton,1
+United States,California,Cool,1
+United States,California,Coronado,1
+United States,California,Cotati,1
+United States,California,Danville,1
+United States,California,Dixon,1
+United States,California,Dublin,1
+United States,California,Dunsmuir,1
+United States,California,El Cajon,1
+United States,California,El Cerrito,1
+United States,California,El Dorado Hills,1
+United States,California,Encinitas,1
+United States,California,Exeter,1
+United States,California,Fair Oaks,1
+United States,California,Fairfax,1
+United States,California,Fallbrook,1
+United States,California,Folsom,1
+United States,California,Fort Bragg,1
+United States,California,Fortuna,1
+United States,California,Fountain Valley,1
+United States,California,Galt,1
+United States,California,Gilroy,1
+United States,California,Guerneville,1
+United States,California,Hacienda Heights,1
+United States,California,Hayward,1
+United States,California,Healdsburg,1
+United States,California,Holtville,1
+United States,California,Idyllwild,1
+United States,California,Inyokern,1
+United States,California,Irwindale,1
+United States,California,Jamul,1
+United States,California,June Lake,1
+United States,California,Kelseyville,1
+United States,California,Kernville,1
+United States,California,La Mirada,1
+United States,California,La Verne,1
+United States,California,Lafayette,1
+United States,California,Laguna Beach,1
+United States,California,Laguna Hills,1
+United States,California,Lake Almanor,1
+United States,California,Lakeport,1
+United States,California,Larkspur,1
+United States,California,Lomita,1
+United States,California,Lompoc,1
+United States,California,Loomis,1
+United States,California,Los Banos,1
+United States,California,Magalia,1
+United States,California,Manhattan Beach,1
+United States,California,Marina,1
+United States,California,Marina del Rey,1
+United States,California,McCloud,1
+United States,California,Menifee,1
+United States,California,Montclair,1
+United States,California,Montebello,1
+United States,California,Moorpark,1
+United States,California,Moraga,1
+United States,California,Morgan Hill,1
+United States,California,Morro Bay,1
+United States,California,Newhall,1
+United States,California,Newport Beach,1
+United States,California,Nipomo,1
+United States,California,Norco,1
+United States,California,Oakdale,1
+United States,California,Oakhurst,1
+United States,California,Orcutt,1
+United States,California,Pacific Grove,1
+United States,California,Pacifica,1
+United States,California,Palm Desert,1
+United States,California,Pescadero,1
+United States,California,Pismo Beach,1
+United States,California,Pittsburg,1
+United States,California,Pleasanton,1
+United States,California,Plymouth,1
+United States,California,Pollock Pines,1
+United States,California,Potter Valley,1
+United States,California,Princeton,1
+United States,California,Rancho Mirage,1
+United States,California,Rancho Santa Margarita,1
+United States,California,Red Bluff,1
+United States,California,Redondo Beach,1
+United States,California,Redwood City,1
+United States,California,Rohnert Park,1
+United States,California,Roseville,1
+United States,California,Saint Helena,1
+United States,California,San Bernardino,1
+United States,California,San Fernando,1
+United States,California,San Gabriel,1
+United States,California,San Juan Capistrano,1
+United States,California,San Rafael,1
+United States,California,Sanger,1
+United States,California,Santa Clarita,1
+United States,California,Santa Margarita,1
+United States,California,Santa Monica,1
+United States,California,Scotia,1
+United States,California,Scotts Valley,1
+United States,California,Sherman Oaks,1
+United States,California,Signal Hill,1
+United States,California,Silverado,1
+United States,California,Solvang,1
+United States,California,Soquel,1
+United States,California,South El Monte,1
+United States,California,Taft,1
+United States,California,Tahoe City,1
+United States,California,Tecopa,1
+United States,California,Tehachapi,1
+United States,California,Thousand Palms,1
+United States,California,Three Rivers,1
+United States,California,Trabuco Canyon,1
+United States,California,Tracy,1
+United States,California,Tulare,1
+United States,California,Universal City,1
+United States,California,Valencia,1
+United States,California,Valley Center,1
+United States,California,Visalia,1
+United States,California,Walnut Creek,1
+United States,California,Weed,1
+United States,California,West Covina,1
+United States,California,Whitethorn,1
+United States,California,Whittier,1
+United States,California,Wildomar,1
+United States,California,Winters,1
+United States,California,Woodland,1
+United States,California,Yorba Linda,1
+United States,California,Yuba City,1
+United States,California,Yucaipa,1
+United States,California,del Mar,1
+United States,Colorado,Denver,92
+United States,Colorado,Boulder,27
+United States,Colorado,Colorado Springs,27
+United States,Colorado,Fort Collins,23
+United States,Colorado,Longmont,13
+United States,Colorado,Golden,12
+United States,Colorado,Aurora,11
+United States,Colorado,Littleton,11
+United States,Colorado,Loveland,10
+United States,Colorado,Castle Rock,9
+United States,Colorado,Greeley,9
+United States,Colorado,Arvada,7
+United States,Colorado,Lafayette,7
+United States,Colorado,Lakewood,7
+United States,Colorado,Centennial,6
+United States,Colorado,Durango,6
+United States,Colorado,Highlands Ranch,6
+United States,Colorado,Westminster,6
+United States,Colorado,Englewood,5
+United States,Colorado,Broomfield,4
+United States,Colorado,Estes Park,4
+United States,Colorado,Evergreen,4
+United States,Colorado,Louisville,4
+United States,Colorado,Montrose,4
+United States,Colorado,Parker,4
+United States,Colorado,Pueblo,4
+United States,Colorado,Steamboat Springs,4
+United States,Colorado,Alamosa,3
+United States,Colorado,Brighton,3
+United States,Colorado,Carbondale,3
+United States,Colorado,Cortez,3
+United States,Colorado,Eagle,3
+United States,Colorado,Erie,3
+United States,Colorado,Fruita,3
+United States,Colorado,Glenwood Springs,3
+United States,Colorado,Grand Junction,3
+United States,Colorado,Greenwood Village,3
+United States,Colorado,Lone Tree,3
+United States,Colorado,Ouray,3
+United States,Colorado,Telluride,3
+United States,Colorado,Berthoud,2
+United States,Colorado,Breckenridge,2
+United States,Colorado,Crested Butte,2
+United States,Colorado,Delta,2
+United States,Colorado,Dillon,2
+United States,Colorado,Frederick,2
+United States,Colorado,Frisco,2
+United States,Colorado,Idaho Springs,2
+United States,Colorado,Nederland,2
+United States,Colorado,Pagosa Springs,2
+United States,Colorado,Salida,2
+United States,Colorado,Sheridan,2
+United States,Colorado,Silverthorne,2
+United States,Colorado,Silverton,2
+United States,Colorado,Thornton,2
+United States,Colorado,Wheat Ridge,2
+United States,Colorado,Windsor,2
+United States,Colorado,Winter Park,2
+United States,Colorado,Woodland Park,2
+United States,Colorado,Aspen,1
+United States,Colorado,Bailey,1
+United States,Colorado,Basalt,1
+United States,Colorado,Bayfield,1
+United States,Colorado,Buena Vista,1
+United States,Colorado,Canon City,1
+United States,Colorado,Cedaredge,1
+United States,Colorado,Central City,1
+United States,Colorado,Crestone,1
+United States,Colorado,Divide,1
+United States,Colorado,Dolores,1
+United States,Colorado,Edgewater,1
+United States,Colorado,Edwards,1
+United States,Colorado,Fairplay,1
+United States,Colorado,Florence,1
+United States,Colorado,Florissant,1
+United States,Colorado,Georgetown,1
+United States,Colorado,Granby,1
+United States,Colorado,Grand Lake,1
+United States,Colorado,Gunnison,1
+United States,Colorado,Hayden,1
+United States,Colorado,Johnstown,1
+United States,Colorado,Kremmling,1
+United States,Colorado,La Junta,1
+United States,Colorado,Lake City,1
+United States,Colorado,Laporte,1
+United States,Colorado,Larkspur,1
+United States,Colorado,Leadville,1
+United States,Colorado,Lyons,1
+United States,Colorado,Mancos,1
+United States,Colorado,Manitou Springs,1
+United States,Colorado,Monument,1
+United States,Colorado,Niwot,1
+United States,Colorado,Northglenn,1
+United States,Colorado,Palisade,1
+United States,Colorado,Paonia,1
+United States,Colorado,Peyton,1
+United States,Colorado,Poncha Springs,1
+United States,Colorado,Ridgway,1
+United States,Colorado,Sterling,1
+United States,Colorado,Timnath,1
+United States,Colorado,Trinidad,1
+United States,Colorado,Vail,1
+United States,Colorado,Wellington,1
+United States,Colorado,Yuma,1
+United States,Colorado,del Norte,1
+United States,Connecticut,Hartford,4
+United States,Connecticut,Stratford,4
+United States,Connecticut,Branford,3
+United States,Connecticut,Oxford,3
+United States,Connecticut,Wallingford,3
+United States,Connecticut,Bloomfield,2
+United States,Connecticut,Bridgeport,2
+United States,Connecticut,Bristol,2
+United States,Connecticut,East Haven,2
+United States,Connecticut,Hamden,2
+United States,Connecticut,Milford,2
+United States,Connecticut,New Britain,2
+United States,Connecticut,New Haven,2
+United States,Connecticut,Norwich,2
+United States,Connecticut,Stamford,2
+United States,Connecticut,Stonington,2
+United States,Connecticut,Bethel,1
+United States,Connecticut,Canaan,1
+United States,Connecticut,Chester,1
+United States,Connecticut,Cromwell,1
+United States,Connecticut,Danbury,1
+United States,Connecticut,Danielson,1
+United States,Connecticut,Derby,1
+United States,Connecticut,East Granby,1
+United States,Connecticut,East Hampton,1
+United States,Connecticut,East Hartford,1
+United States,Connecticut,Ellington,1
+United States,Connecticut,Enfield,1
+United States,Connecticut,Granby,1
+United States,Connecticut,Groton,1
+United States,Connecticut,Haddam,1
+United States,Connecticut,Harwinton,1
+United States,Connecticut,Kent,1
+United States,Connecticut,Manchester,1
+United States,Connecticut,Mashantucket,1
+United States,Connecticut,Middlefield,1
+United States,Connecticut,Middletown,1
+United States,Connecticut,Milldale,1
+United States,Connecticut,Monroe,1
+United States,Connecticut,Mystic,1
+United States,Connecticut,New Hartford,1
+United States,Connecticut,New London,1
+United States,Connecticut,New Milford,1
+United States,Connecticut,Newtown,1
+United States,Connecticut,North Stonington,1
+United States,Connecticut,Norwalk,1
+United States,Connecticut,Oakville,1
+United States,Connecticut,Old Saybrook,1
+United States,Connecticut,Pawcatuck,1
+United States,Connecticut,Plainville,1
+United States,Connecticut,Putnam,1
+United States,Connecticut,Redding,1
+United States,Connecticut,Ridgefield,1
+United States,Connecticut,Rocky Hill,1
+United States,Connecticut,Salem,1
+United States,Connecticut,South Glastonbury,1
+United States,Connecticut,South Windsor,1
+United States,Connecticut,Southington,1
+United States,Connecticut,Stafford Springs,1
+United States,Connecticut,Suffield,1
+United States,Connecticut,Trumbull,1
+United States,Connecticut,Waterbury,1
+United States,Connecticut,West Haven,1
+United States,Connecticut,Westport,1
+United States,Connecticut,Wethersfield,1
+United States,Connecticut,Willimantic,1
+United States,Connecticut,Winsted,1
+United States,Connecticut,Wolcott,1
+United States,Connecticut,Woodbridge,1
+United States,Connecticut,Woodbury,1
+United States,Connecticut,Woodstock,1
+United States,Delaware,Rehoboth Beach,5
+United States,Delaware,Wilmington,5
+United States,Delaware,Newark,4
+United States,Delaware,Middletown,2
+United States,Delaware,Smyrna,2
+United States,Delaware,Bear,1
+United States,Delaware,Delmar,1
+United States,Delaware,Dewey Beach,1
+United States,Delaware,Dover,1
+United States,Delaware,Georgetown,1
+United States,Delaware,Greenville,1
+United States,Delaware,Lewes,1
+United States,Delaware,Milford,1
+United States,Delaware,Milton,1
+United States,Delaware,Yorklyn,1
+United States,District of Columbia,Washington,22
+United States,Florida,Tampa,19
+United States,Florida,Jacksonville,16
+United States,Florida,Miami,16
+United States,Florida,Orlando,14
+United States,Florida,Saint Petersburg,12
+United States,Florida,Dunedin,7
+United States,Florida,Pensacola,7
+United States,Florida,Tallahassee,7
+United States,Florida,Bradenton,6
+United States,Florida,Fort Lauderdale,6
+United States,Florida,Fort Myers,6
+United States,Florida,Gainesville,6
+United States,Florida,Naples,6
+United States,Florida,Sarasota,6
+United States,Florida,Clearwater,5
+United States,Florida,Pompano Beach,5
+United States,Florida,Boynton Beach,4
+United States,Florida,Fernandina Beach,4
+United States,Florida,Jacksonville Beach,4
+United States,Florida,Palm Harbor,4
+United States,Florida,Saint Augustine,4
+United States,Florida,Sanford,4
+United States,Florida,Winter Park,4
+United States,Florida,Cape Coral,3
+United States,Florida,Hollywood,3
+United States,Florida,Key West,3
+United States,Florida,Lakeland,3
+United States,Florida,Melbourne,3
+United States,Florida,New Port Richey,3
+United States,Florida,New Smyrna Beach,3
+United States,Florida,Santa Rosa Beach,3
+United States,Florida,Tarpon Springs,3
+United States,Florida,Titusville,3
+United States,Florida,Vero Beach,3
+United States,Florida,West Palm Beach,3
+United States,Florida,Atlantic Beach,2
+United States,Florida,Auburndale,2
+United States,Florida,Boca Raton,2
+United States,Florida,Clermont,2
+United States,Florida,Crystal River,2
+United States,Florida,Daytona Beach,2
+United States,Florida,Destin,2
+United States,Florida,Fort Pierce,2
+United States,Florida,Fort Walton Beach,2
+United States,Florida,Islamorada,2
+United States,Florida,Jupiter,2
+United States,Florida,Lake Worth,2
+United States,Florida,Land O Lakes,2
+United States,Florida,Largo,2
+United States,Florida,Merritt Island,2
+United States,Florida,Miami Beach,2
+United States,Florida,Ormond Beach,2
+United States,Florida,Panama City Beach,2
+United States,Florida,Port Saint Lucie,2
+United States,Florida,Safety Harbor,2
+United States,Florida,Sebastian,2
+United States,Florida,St Petersburg,2
+United States,Florida,Apalachicola,1
+United States,Florida,Apollo Beach,1
+United States,Florida,Bonita Springs,1
+United States,Florida,Brooksville,1
+United States,Florida,Cape Canaveral,1
+United States,Florida,Casselberry,1
+United States,Florida,Cocoa,1
+United States,Florida,Cocoa Beach,1
+United States,Florida,Coral Springs,1
+United States,Florida,Dania,1
+United States,Florida,Davie,1
+United States,Florida,Debary,1
+United States,Florida,Deland,1
+United States,Florida,Delray Beach,1
+United States,Florida,Doral,1
+United States,Florida,Eustis,1
+United States,Florida,Hialeah,1
+United States,Florida,Homestead,1
+United States,Florida,Indian Harbour Beach,1
+United States,Florida,Key Biscayne,1
+United States,Florida,Kissimmee,1
+United States,Florida,Lake Buena Vista,1
+United States,Florida,Lake City,1
+United States,Florida,Leesburg,1
+United States,Florida,Longwood,1
+United States,Florida,Macclenny,1
+United States,Florida,Madeira Beach,1
+United States,Florida,Milton,1
+United States,Florida,Mount Dora,1
+United States,Florida,Navarre,1
+United States,Florida,Niceville,1
+United States,Florida,North Palm Beach,1
+United States,Florida,Oakland Park,1
+United States,Florida,Ocala,1
+United States,Florida,Odessa,1
+United States,Florida,Opa Locka,1
+United States,Florida,Orange Park,1
+United States,Florida,Oviedo,1
+United States,Florida,Palm Coast,1
+United States,Florida,Panama City,1
+United States,Florida,Plant City,1
+United States,Florida,Port Orange,1
+United States,Florida,Punta Gorda,1
+United States,Florida,Riverview,1
+United States,Florida,Royal Palm Beach,1
+United States,Florida,Sebring,1
+United States,Florida,Seminole,1
+United States,Florida,Spring Hill,1
+United States,Florida,St Pete Beach,1
+United States,Florida,Tequesta,1
+United States,Florida,Trinity,1
+United States,Florida,Valrico,1
+United States,Florida,Venice,1
+United States,Florida,West Melbourne,1
+United States,Florida,Weston,1
+United States,Florida,Wildwood,1
+United States,Florida,Winter Garden,1
+United States,Florida,Winter Haven,1
+United States,Florida,Winter Springs,1
+United States,Florida,Zephyrhills,1
+United States,Georgia,Atlanta,23
+United States,Georgia,Savannah,6
+United States,Georgia,Athens,5
+United States,Georgia,Marietta,5
+United States,Georgia,Decatur,4
+United States,Georgia,Blue Ridge,3
+United States,Georgia,Kennesaw,3
+United States,Georgia,Macon,3
+United States,Georgia,Roswell,3
+United States,Georgia,Sandy Springs,3
+United States,Georgia,Albany,2
+United States,Georgia,Alpharetta,2
+United States,Georgia,Augusta,2
+United States,Georgia,Chamblee,2
+United States,Georgia,Braselton,1
+United States,Georgia,Brunswick,1
+United States,Georgia,Buford,1
+United States,Georgia,Carrollton,1
+United States,Georgia,Cartersville,1
+United States,Georgia,Cleveland,1
+United States,Georgia,Columbus,1
+United States,Georgia,Cumming,1
+United States,Georgia,Dahlonega,1
+United States,Georgia,Dalton,1
+United States,Georgia,Duluth,1
+United States,Georgia,Evans,1
+United States,Georgia,Fairburn,1
+United States,Georgia,Gainesville,1
+United States,Georgia,Greensboro,1
+United States,Georgia,Hampton,1
+United States,Georgia,Hapeville,1
+United States,Georgia,Johns Creek,1
+United States,Georgia,Lagrange,1
+United States,Georgia,Lawrenceville,1
+United States,Georgia,Newnan,1
+United States,Georgia,Omaha,1
+United States,Georgia,Peachtree City,1
+United States,Georgia,Rock Spring,1
+United States,Georgia,Rome,1
+United States,Georgia,Snellville,1
+United States,Georgia,Statesboro,1
+United States,Georgia,Stone Mountain,1
+United States,Georgia,Sugarhill,1
+United States,Georgia,Tucker,1
+United States,Georgia,Valdosta,1
+United States,Georgia,West Point,1
+United States,Georgia,Woodstock,1
+United States,Georgia,kennesaw,1
+United States,Hawaii,Honolulu,12
+United States,Hawaii,Hilo,3
+United States,Hawaii,Kailua Kona,3
+United States,Hawaii,Kailua,2
+United States,Hawaii,Lahaina,2
+United States,Hawaii,Wailea,2
+United States,Hawaii,Aiea,1
+United States,Hawaii,Eleele,1
+United States,Hawaii,Kamuela,1
+United States,Hawaii,Kaneohe,1
+United States,Hawaii,Kihei,1
+United States,Hawaii,Koloa,1
+United States,Hawaii,Lihue,1
+United States,Hawaii,Makawao,1
+United States,Hawaii,Mililani,1
+United States,Hawaii,Volcano,1
+United States,Idaho,Boise,17
+United States,Idaho,Garden City,5
+United States,Idaho,Coeur D Alene,4
+United States,Idaho,Hailey,3
+United States,Idaho,McCall,3
+United States,Idaho,Moscow,3
+United States,Idaho,Nampa,3
+United States,Idaho,Post Falls,3
+United States,Idaho,Hayden,2
+United States,Idaho,Idaho Falls,2
+United States,Idaho,Ketchum,2
+United States,Idaho,Pocatello,2
+United States,Idaho,Sandpoint,2
+United States,Idaho,Victor,2
+United States,Idaho,Wallace,2
+United States,Idaho,Bonners Ferry,1
+United States,Idaho,Buhl,1
+United States,Idaho,Challis,1
+United States,Idaho,Cottonwood,1
+United States,Idaho,Elk River,1
+United States,Idaho,Kellogg,1
+United States,Idaho,Meridian,1
+United States,Idaho,Ponderay,1
+United States,Idaho,Priest Lake,1
+United States,Idaho,Riggins,1
+United States,Idaho,Salmon,1
+United States,Idaho,Twin Falls,1
+United States,Illinois,Chicago,64
+United States,Illinois,Saint Charles,8
+United States,Illinois,Evanston,4
+United States,Illinois,Oak Park,4
+United States,Illinois,Peoria,4
+United States,Illinois,Rock Island,4
+United States,Illinois,Springfield,4
+United States,Illinois,Belleville,3
+United States,Illinois,Geneva,3
+United States,Illinois,Itasca,3
+United States,Illinois,Lombard,3
+United States,Illinois,Naperville,3
+United States,Illinois,Normal,3
+United States,Illinois,Rockford,3
+United States,Illinois,Tinley Park,3
+United States,Illinois,Algonquin,2
+United States,Illinois,Aurora,2
+United States,Illinois,Bloomington,2
+United States,Illinois,Bourbonnais,2
+United States,Illinois,Champaign,2
+United States,Illinois,Darien,2
+United States,Illinois,Decatur,2
+United States,Illinois,Downers Grove,2
+United States,Illinois,Freeport,2
+United States,Illinois,Galesburg,2
+United States,Illinois,Geneseo,2
+United States,Illinois,Joliet,2
+United States,Illinois,Lena,2
+United States,Illinois,New Lenox,2
+United States,Illinois,Orland Park,2
+United States,Illinois,Ottawa,2
+United States,Illinois,Plainfield,2
+United States,Illinois,Schaumburg,2
+United States,Illinois,Villa Park,2
+United States,Illinois,Warrenville,2
+United States,Illinois,Waterloo,2
+United States,Illinois,Wauconda,2
+United States,Illinois,Westmont,2
+United States,Illinois,Wheaton,2
+United States,Illinois,Alto Pass,1
+United States,Illinois,Alton,1
+United States,Illinois,Assumption,1
+United States,Illinois,Ava,1
+United States,Illinois,Barrington,1
+United States,Illinois,Berwyn,1
+United States,Illinois,Blue Island,1
+United States,Illinois,Bolingbrook,1
+United States,Illinois,Breese,1
+United States,Illinois,Buffalo Grove,1
+United States,Illinois,Byron,1
+United States,Illinois,Cantrall,1
+United States,Illinois,Cary,1
+United States,Illinois,Channahon,1
+United States,Illinois,Chicago Ridge,1
+United States,Illinois,Christopher,1
+United States,Illinois,Collinsville,1
+United States,Illinois,Crete,1
+United States,Illinois,Crystal Lake,1
+United States,Illinois,DeKalb,1
+United States,Illinois,Du Quoin,1
+United States,Illinois,East Peoria,1
+United States,Illinois,Edwardsville,1
+United States,Illinois,Elburn,1
+United States,Illinois,Elk Grove Village,1
+United States,Illinois,Elmhurst,1
+United States,Illinois,Flossmoor,1
+United States,Illinois,Forest Park,1
+United States,Illinois,Galena,1
+United States,Illinois,Georgetown,1
+United States,Illinois,Glenview,1
+United States,Illinois,Grafton,1
+United States,Illinois,Grayslake,1
+United States,Illinois,Gurnee,1
+United States,Illinois,Hampshire,1
+United States,Illinois,Herrin,1
+United States,Illinois,Highland Park,1
+United States,Illinois,Highwood,1
+United States,Illinois,Hodgkins,1
+United States,Illinois,Homewood,1
+United States,Illinois,Huntley,1
+United States,Illinois,Illiopolis,1
+United States,Illinois,Lake Barrington,1
+United States,Illinois,Lake Bluff,1
+United States,Illinois,Lake Zurich,1
+United States,Illinois,Lansing,1
+United States,Illinois,Lemont,1
+United States,Illinois,Libertyville,1
+United States,Illinois,Lincolnshire,1
+United States,Illinois,Long Grove,1
+United States,Illinois,Lyons,1
+United States,Illinois,Machesney Park,1
+United States,Illinois,Macomb,1
+United States,Illinois,Mahomet,1
+United States,Illinois,McHenry,1
+United States,Illinois,Metropolis,1
+United States,Illinois,Mokena,1
+United States,Illinois,Moline,1
+United States,Illinois,Momence,1
+United States,Illinois,Monmouth,1
+United States,Illinois,Mundelein,1
+United States,Illinois,Murphysboro,1
+United States,Illinois,Niles,1
+United States,Illinois,North Aurora,1
+United States,Illinois,Northbrook,1
+United States,Illinois,O Fallon,1
+United States,Illinois,Oswego,1
+United States,Illinois,Palatine,1
+United States,Illinois,Paris,1
+United States,Illinois,Petersburg,1
+United States,Illinois,Quincy,1
+United States,Illinois,Red Bud,1
+United States,Illinois,Romeoville,1
+United States,Illinois,Roscoe,1
+United States,Illinois,Rosemont,1
+United States,Illinois,Savoy,1
+United States,Illinois,Schiller Park,1
+United States,Illinois,Shorewood,1
+United States,Illinois,South Barrington,1
+United States,Illinois,South Beloit,1
+United States,Illinois,Spring Grove,1
+United States,Illinois,Sycamore,1
+United States,Illinois,Teutopolis,1
+United States,Illinois,Urbana,1
+United States,Illinois,Waukegan,1
+United States,Illinois,West Dundee,1
+United States,Illinois,Western Springs,1
+United States,Illinois,Wheeling,1
+United States,Illinois,Willow Springs,1
+United States,Illinois,Willowbrook,1
+United States,Illinois,Wilmette,1
+United States,Illinois,Woodridge,1
+United States,Illinois,Woodstock,1
+United States,Indiana,Indianapolis,33
+United States,Indiana,Bloomington,8
+United States,Indiana,Fort Wayne,8
+United States,Indiana,Carmel,4
+United States,Indiana,Evansville,4
+United States,Indiana,Fishers,4
+United States,Indiana,New Albany,4
+United States,Indiana,Columbus,3
+United States,Indiana,Greenwood,3
+United States,Indiana,Griffith,3
+United States,Indiana,Lafayette,3
+United States,Indiana,Michigan City,3
+United States,Indiana,Noblesville,3
+United States,Indiana,South Bend,3
+United States,Indiana,Valparaiso,3
+United States,Indiana,Crown Point,2
+United States,Indiana,Elkhart,2
+United States,Indiana,Goshen,2
+United States,Indiana,Granger,2
+United States,Indiana,Hammond,2
+United States,Indiana,Jasper,2
+United States,Indiana,Kokomo,2
+United States,Indiana,Martinsville,2
+United States,Indiana,Mishawaka,2
+United States,Indiana,Muncie,2
+United States,Indiana,Munster,2
+United States,Indiana,Plainfield,2
+United States,Indiana,Richmond,2
+United States,Indiana,Saint John,2
+United States,Indiana,Westfield,2
+United States,Indiana,Anderson,1
+United States,Indiana,Angola,1
+United States,Indiana,Auburn,1
+United States,Indiana,Aurora,1
+United States,Indiana,Bargersville,1
+United States,Indiana,Batesville,1
+United States,Indiana,Bedford,1
+United States,Indiana,Bloomfield,1
+United States,Indiana,Brazil,1
+United States,Indiana,Brookston,1
+United States,Indiana,Chesterton,1
+United States,Indiana,Corydon,1
+United States,Indiana,Crawfordsville,1
+United States,Indiana,Danville,1
+United States,Indiana,Dyer,1
+United States,Indiana,Fairmount,1
+United States,Indiana,Ferdinand,1
+United States,Indiana,Franklin,1
+United States,Indiana,Gary,1
+United States,Indiana,Greencastle,1
+United States,Indiana,Greenfield,1
+United States,Indiana,INDIANAPOLIS,1
+United States,Indiana,Jeffersonville,1
+United States,Indiana,Knox,1
+United States,Indiana,La Porte,1
+United States,Indiana,Laotto,1
+United States,Indiana,Lapel,1
+United States,Indiana,Liberty,1
+United States,Indiana,McCordsville,1
+United States,Indiana,Merrillville,1
+United States,Indiana,Nashville,1
+United States,Indiana,New Harmony,1
+United States,Indiana,Oldenburg,1
+United States,Indiana,Terre Haute,1
+United States,Indiana,Wabash,1
+United States,Indiana,Walkerton,1
+United States,Indiana,Warsaw,1
+United States,Indiana,West Lafayette,1
+United States,Indiana,West Terre Haute,1
+United States,Indiana,Wheatfield,1
+United States,Indiana,Whiteland,1
+United States,Indiana,Whitestown,1
+United States,Indiana,Whiting,1
+United States,Iowa,Cedar Rapids,7
+United States,Iowa,Des Moines,7
+United States,Iowa,Dubuque,4
+United States,Iowa,Ames,3
+United States,Iowa,Ankeny,3
+United States,Iowa,Coralville,3
+United States,Iowa,Davenport,3
+United States,Iowa,Waterloo,3
+United States,Iowa,West Des Moines,3
+United States,Iowa,Bettendorf,2
+United States,Iowa,Burlington,2
+United States,Iowa,Clive,2
+United States,Iowa,Decorah,2
+United States,Iowa,Iowa City,2
+United States,Iowa,Mason City,2
+United States,Iowa,Muscatine,2
+United States,Iowa,Sioux City,2
+United States,Iowa,Albia,1
+United States,Iowa,Amana,1
+United States,Iowa,Bellevue,1
+United States,Iowa,Bondurant,1
+United States,Iowa,Boone,1
+United States,Iowa,Calmar,1
+United States,Iowa,Carlisle,1
+United States,Iowa,Carroll,1
+United States,Iowa,Cedar Falls,1
+United States,Iowa,Clarion,1
+United States,Iowa,Clear Lake,1
+United States,Iowa,Elkader,1
+United States,Iowa,Ellsworth,1
+United States,Iowa,Fort Dodge,1
+United States,Iowa,Fort Madison,1
+United States,Iowa,Glenwood,1
+United States,Iowa,Hampton,1
+United States,Iowa,Humboldt,1
+United States,Iowa,Huxley,1
+United States,Iowa,Kalona,1
+United States,Iowa,Keokuk,1
+United States,Iowa,Knoxville,1
+United States,Iowa,Lake Mills,1
+United States,Iowa,Le Claire,1
+United States,Iowa,Manchester,1
+United States,Iowa,Marshalltown,1
+United States,Iowa,Milford,1
+United States,Iowa,Mount Vernon,1
+United States,Iowa,Newton,1
+United States,Iowa,Northwood,1
+United States,Iowa,Osage,1
+United States,Iowa,Oskaloosa,1
+United States,Iowa,Ottumwa,1
+United States,Iowa,Polk City,1
+United States,Iowa,Shenandoah,1
+United States,Iowa,Sibley,1
+United States,Iowa,Spirit Lake,1
+United States,Iowa,Waverly,1
+United States,Iowa,Winterset,1
+United States,Kansas,Wichita,11
+United States,Kansas,Lawrence,5
+United States,Kansas,Olathe,4
+United States,Kansas,Manhattan,3
+United States,Kansas,Topeka,3
+United States,Kansas,Hays,2
+United States,Kansas,Beaver,1
+United States,Kansas,Cheney,1
+United States,Kansas,Dodge City,1
+United States,Kansas,El Dorado,1
+United States,Kansas,Emporia,1
+United States,Kansas,Fort Scott,1
+United States,Kansas,Holton,1
+United States,Kansas,Humboldt,1
+United States,Kansas,Hutchinson,1
+United States,Kansas,Kansas City,1
+United States,Kansas,Leavenworth,1
+United States,Kansas,Lenexa,1
+United States,Kansas,McPherson,1
+United States,Kansas,Overland Park,1
+United States,Kansas,Pittsburg,1
+United States,Kansas,Quinter,1
+United States,Kansas,Salina,1
+United States,Kansas,Shawnee,1
+United States,Kansas,Washington,1
+United States,Kentucky,Louisville,20
+United States,Kentucky,Lexington,12
+United States,Kentucky,Bellevue,2
+United States,Kentucky,Newport,2
+United States,Kentucky,Paducah,2
+United States,Kentucky,Somerset,2
+United States,Kentucky,Alexandria,1
+United States,Kentucky,Beaver Dam,1
+United States,Kentucky,Bowling Green,1
+United States,Kentucky,Cadiz,1
+United States,Kentucky,Covington,1
+United States,Kentucky,Cynthiana,1
+United States,Kentucky,Danville,1
+United States,Kentucky,Elizabethtown,1
+United States,Kentucky,Florence,1
+United States,Kentucky,Georgetown,1
+United States,Kentucky,Harrodsburg,1
+United States,Kentucky,Henderson,1
+United States,Kentucky,Hopkinsville,1
+United States,Kentucky,Ludlow,1
+United States,Kentucky,Paris,1
+United States,Kentucky,Pikeville,1
+United States,Kentucky,Prestonsburg,1
+United States,Kentucky,Richmond,1
+United States,Louisiana,New Orleans,13
+United States,Louisiana,Baton Rouge,3
+United States,Louisiana,Shreveport,3
+United States,Louisiana,Covington,2
+United States,Louisiana,Hammond,2
+United States,Louisiana,Lafayette,2
+United States,Louisiana,Mandeville,2
+United States,Louisiana,Alexandria,1
+United States,Louisiana,Amite,1
+United States,Louisiana,Arnaudville,1
+United States,Louisiana,Bossier City,1
+United States,Louisiana,Broussard,1
+United States,Louisiana,Denham Springs,1
+United States,Louisiana,Folsom,1
+United States,Louisiana,Houma,1
+United States,Louisiana,Lake Charles,1
+United States,Louisiana,Marksville,1
+United States,Louisiana,Monroe,1
+United States,Louisiana,Natchitoches,1
+United States,Louisiana,Prairieville,1
+United States,Louisiana,Ruston,1
+United States,Louisiana,Saint Francisville,1
+United States,Louisiana,Thibodaux,1
+United States,Louisiana,West Monroe,1
+United States,MIssouri,Hillsboro,1
+United States,Maine,Portland,18
+United States,Maine,Bangor,5
+United States,Maine,Orono,4
+United States,Maine,Auburn,3
+United States,Maine,Bar Harbor,3
+United States,Maine,Biddeford,3
+United States,Maine,Brewer,3
+United States,Maine,Gorham,3
+United States,Maine,South Portland,3
+United States,Maine,Belfast,2
+United States,Maine,Bridgton,2
+United States,Maine,Brunswick,2
+United States,Maine,Freeport,2
+United States,Maine,Kittery,2
+United States,Maine,Lewiston,2
+United States,Maine,Liberty,2
+United States,Maine,Rockland,2
+United States,Maine,Saco,2
+United States,Maine,Skowhegan,2
+United States,Maine,Westbrook,2
+United States,Maine,York,2
+United States,Maine,Amherst,1
+United States,Maine,Augusta,1
+United States,Maine,Bath,1
+United States,Maine,Bethel,1
+United States,Maine,Blue Hill,1
+United States,Maine,Boothbay,1
+United States,Maine,Bucksport,1
+United States,Maine,Camden,1
+United States,Maine,Caribou,1
+United States,Maine,Carrabassett Valley,1
+United States,Maine,Eliot,1
+United States,Maine,Ellsworth,1
+United States,Maine,Farmington,1
+United States,Maine,Fort Kent,1
+United States,Maine,Fryeburg,1
+United States,Maine,Gardiner,1
+United States,Maine,Hallowell,1
+United States,Maine,Harrison,1
+United States,Maine,Kennebunk,1
+United States,Maine,Limerick,1
+United States,Maine,Lincolnville,1
+United States,Maine,Lubec,1
+United States,Maine,Lyman,1
+United States,Maine,Machias,1
+United States,Maine,Monhegan,1
+United States,Maine,Monmouth,1
+United States,Maine,Naples,1
+United States,Maine,Newcastle,1
+United States,Maine,North Haven,1
+United States,Maine,Norway,1
+United States,Maine,Peaks Island,1
+United States,Maine,Pittsfield,1
+United States,Maine,S Portland,1
+United States,Maine,Scarborough,1
+United States,Maine,Searsmont,1
+United States,Maine,Sedgwick,1
+United States,Maine,Union,1
+United States,Maine,Waldoboro,1
+United States,Maine,Warren,1
+United States,Maine,Waterville,1
+United States,Maine,Wells,1
+United States,Maine,West Forks,1
+United States,Maine,Whitefield,1
+United States,Maine,Winterport,1
+United States,Maine,Winthrop,1
+United States,Maryland,Baltimore,26
+United States,Maryland,Frederick,14
+United States,Maryland,Gaithersburg,6
+United States,Maryland,Salisbury,6
+United States,Maryland,Columbia,5
+United States,Maryland,Annapolis,4
+United States,Maryland,Berlin,3
+United States,Maryland,Hagerstown,3
+United States,Maryland,Hampstead,3
+United States,Maryland,Hyattsville,3
+United States,Maryland,Mount Airy,3
+United States,Maryland,Ocean City,3
+United States,Maryland,Rockville,3
+United States,Maryland,Silver Spring,3
+United States,Maryland,Bethesda,2
+United States,Maryland,Cumberland,2
+United States,Maryland,Denton,2
+United States,Maryland,Easton,2
+United States,Maryland,Ellicott City,2
+United States,Maryland,Middle River,2
+United States,Maryland,Owings,2
+United States,Maryland,Parkton,2
+United States,Maryland,Prince Frederick,2
+United States,Maryland,Westminster,2
+United States,Maryland,Adamstown,1
+United States,Maryland,Bel Air,1
+United States,Maryland,Brandywine,1
+United States,Maryland,Brookeville,1
+United States,Maryland,Brunswick,1
+United States,Maryland,Cambridge,1
+United States,Maryland,Centreville,1
+United States,Maryland,Chesapeake Beach,1
+United States,Maryland,Crofton,1
+United States,Maryland,Damascus,1
+United States,Maryland,Derwood,1
+United States,Maryland,Dowell,1
+United States,Maryland,Dundalk,1
+United States,Maryland,Eldersburg,1
+United States,Maryland,Elkton,1
+United States,Maryland,Emmitsburg,1
+United States,Maryland,Federalsburg,1
+United States,Maryland,Forest Hill,1
+United States,Maryland,Freeland,1
+United States,Maryland,Gambrills,1
+United States,Maryland,Germantown,1
+United States,Maryland,Halethorpe,1
+United States,Maryland,Harwood,1
+United States,Maryland,Havre De Grace,1
+United States,Maryland,Havre de Grace,1
+United States,Maryland,Hunt Valley,1
+United States,Maryland,Huntingtown,1
+United States,Maryland,Laurel,1
+United States,Maryland,Laytonsville,1
+United States,Maryland,Little Orleans,1
+United States,Maryland,Monkton,1
+United States,Maryland,Mt. Airy,1
+United States,Maryland,New Windsor,1
+United States,Maryland,Odenton,1
+United States,Maryland,Olney,1
+United States,Maryland,Oxon Hill,1
+United States,Maryland,Parsonsburg,1
+United States,Maryland,Perryville,1
+United States,Maryland,Queenstown,1
+United States,Maryland,Reisterstown,1
+United States,Maryland,Rising Sun,1
+United States,Maryland,Riverdale Park,1
+United States,Maryland,Saint Michaels,1
+United States,Maryland,Stevensville,1
+United States,Maryland,Street,1
+United States,Maryland,Sudlersville,1
+United States,Maryland,Taneytown,1
+United States,Maryland,Thurmont,1
+United States,Maryland,Union Bridge,1
+United States,Maryland,Upper Marlboro,1
+United States,Maryland,Whaleyville,1
+United States,Maryland,Whiteford,1
+United States,Maryland,Williamsport,1
+United States,Massachusetts,Boston,11
+United States,Massachusetts,Easthampton,5
+United States,Massachusetts,Lowell,4
+United States,Massachusetts,Plymouth,4
+United States,Massachusetts,Somerville,4
+United States,Massachusetts,Worcester,4
+United States,Massachusetts,Everett,3
+United States,Massachusetts,Framingham,3
+United States,Massachusetts,Waltham,3
+United States,Massachusetts,Acton,2
+United States,Massachusetts,Amesbury,2
+United States,Massachusetts,Amherst,2
+United States,Massachusetts,Andover,2
+United States,Massachusetts,Beverly,2
+United States,Massachusetts,Cambridge,2
+United States,Massachusetts,Charlton,2
+United States,Massachusetts,Florence,2
+United States,Massachusetts,Gloucester,2
+United States,Massachusetts,Greenfield,2
+United States,Massachusetts,Hingham,2
+United States,Massachusetts,Hyannis,2
+United States,Massachusetts,Ipswich,2
+United States,Massachusetts,Ludlow,2
+United States,Massachusetts,Maynard,2
+United States,Massachusetts,Medfield,2
+United States,Massachusetts,New Bedford,2
+United States,Massachusetts,Newburyport,2
+United States,Massachusetts,Northampton,2
+United States,Massachusetts,Norwood,2
+United States,Massachusetts,Salem,2
+United States,Massachusetts,Scituate,2
+United States,Massachusetts,Sturbridge,2
+United States,Massachusetts,Westborough,2
+United States,Massachusetts,Westfield,2
+United States,Massachusetts,Williamsburg,2
+United States,Massachusetts,Abington,1
+United States,Massachusetts,Attleboro,1
+United States,Massachusetts,Barre,1
+United States,Massachusetts,Belchertown,1
+United States,Massachusetts,Berkley,1
+United States,Massachusetts,Bolton,1
+United States,Massachusetts,Braintree,1
+United States,Massachusetts,Bridgewater,1
+United States,Massachusetts,Canton,1
+United States,Massachusetts,Chelsea,1
+United States,Massachusetts,Colrain,1
+United States,Massachusetts,Concord,1
+United States,Massachusetts,Dalton,1
+United States,Massachusetts,Dighton,1
+United States,Massachusetts,Dorchester,1
+United States,Massachusetts,East Brookfield,1
+United States,Massachusetts,Edgartown,1
+United States,Massachusetts,Falmouth,1
+United States,Massachusetts,Fiskdale,1
+United States,Massachusetts,Fitchburg,1
+United States,Massachusetts,Foxboro,1
+United States,Massachusetts,Gardner,1
+United States,Massachusetts,Great Barrington,1
+United States,Massachusetts,Hampden,1
+United States,Massachusetts,Hanover,1
+United States,Massachusetts,Haverhill,1
+United States,Massachusetts,Hopkinton,1
+United States,Massachusetts,Hudson,1
+United States,Massachusetts,Hull,1
+United States,Massachusetts,Jamaica Plain,1
+United States,Massachusetts,Lynn,1
+United States,Massachusetts,Malden,1
+United States,Massachusetts,Marblehead,1
+United States,Massachusetts,Marshfield,1
+United States,Massachusetts,Mashpee,1
+United States,Massachusetts,Milford,1
+United States,Massachusetts,Millers Falls,1
+United States,Massachusetts,Nantucket,1
+United States,Massachusetts,Natick,1
+United States,Massachusetts,Newton,1
+United States,Massachusetts,North Adams,1
+United States,Massachusetts,North Easton,1
+United States,Massachusetts,Norton,1
+United States,Massachusetts,Oak Bluffs,1
+United States,Massachusetts,Orange,1
+United States,Massachusetts,Orleans,1
+United States,Massachusetts,Pittsfield,1
+United States,Massachusetts,Raynham,1
+United States,Massachusetts,Roslindale,1
+United States,Massachusetts,Sheffield,1
+United States,Massachusetts,South Deerfield,1
+United States,Massachusetts,South Dennis,1
+United States,Massachusetts,South Hadley,1
+United States,Massachusetts,Southwick,1
+United States,Massachusetts,Spencer,1
+United States,Massachusetts,Springfield,1
+United States,Massachusetts,Still River,1
+United States,Massachusetts,Turners Falls,1
+United States,Massachusetts,Watertown,1
+United States,Massachusetts,Webster,1
+United States,Massachusetts,West Boylston,1
+United States,Massachusetts,West Brookfield,1
+United States,Massachusetts,Westhampton,1
+United States,Massachusetts,Westminster,1
+United States,Massachusetts,Westport,1
+United States,Massachusetts,Weymouth,1
+United States,Massachusetts,Whately,1
+United States,Massachusetts,Whitinsville,1
+United States,Massachusetts,Whitman,1
+United States,Massachusetts,Woburn,1
+United States,Massachusetts,Wrentham,1
+United States,Michigan,Grand Rapids,25
+United States,Michigan,Kalamazoo,14
+United States,Michigan,Detroit,13
+United States,Michigan,Traverse City,12
+United States,Michigan,Ann Arbor,11
+United States,Michigan,Holland,11
+United States,Michigan,Grand Haven,5
+United States,Michigan,Jackson,5
+United States,Michigan,Marquette,5
+United States,Michigan,Royal Oak,5
+United States,Michigan,Comstock Park,4
+United States,Michigan,Grayling,4
+United States,Michigan,Howell,4
+United States,Michigan,Lansing,4
+United States,Michigan,Baroda,3
+United States,Michigan,Benton Harbor,3
+United States,Michigan,Bridgman,3
+United States,Michigan,Decatur,3
+United States,Michigan,Ferndale,3
+United States,Michigan,Houghton,3
+United States,Michigan,Ludington,3
+United States,Michigan,Muskegon,3
+United States,Michigan,Northville,3
+United States,Michigan,Paw Paw,3
+United States,Michigan,Petoskey,3
+United States,Michigan,Portage,3
+United States,Michigan,Rockford,3
+United States,Michigan,Saint Clair Shores,3
+United States,Michigan,Sault Sainte Marie,3
+United States,Michigan,South Haven,3
+United States,Michigan,Warren,3
+United States,Michigan,Ypsilanti,3
+United States,Michigan,Bay City,2
+United States,Michigan,Big Rapids,2
+United States,Michigan,Birmingham,2
+United States,Michigan,Burton,2
+United States,Michigan,Cedar,2
+United States,Michigan,Charlevoix,2
+United States,Michigan,Chelsea,2
+United States,Michigan,Clinton Township,2
+United States,Michigan,Commerce Township,2
+United States,Michigan,Dearborn,2
+United States,Michigan,Dowagiac,2
+United States,Michigan,East Lansing,2
+United States,Michigan,Escanaba,2
+United States,Michigan,Farmington,2
+United States,Michigan,Fenton,2
+United States,Michigan,Flint,2
+United States,Michigan,Frankfort,2
+United States,Michigan,Grand Ledge,2
+United States,Michigan,Grandville,2
+United States,Michigan,Hastings,2
+United States,Michigan,Hudsonville,2
+United States,Michigan,Ishpeming,2
+United States,Michigan,Livonia,2
+United States,Michigan,Lowell,2
+United States,Michigan,Marshall,2
+United States,Michigan,Mason,2
+United States,Michigan,Milford,2
+United States,Michigan,Mount Pleasant,2
+United States,Michigan,Mt Pleasant,2
+United States,Michigan,New Buffalo,2
+United States,Michigan,Northport,2
+United States,Michigan,Pontiac,2
+United States,Michigan,Portland,2
+United States,Michigan,Saginaw,2
+United States,Michigan,Saint Clair,2
+United States,Michigan,Saline,2
+United States,Michigan,Saugatuck,2
+United States,Michigan,Sawyer,2
+United States,Michigan,South Lyon,2
+United States,Michigan,Springfield,2
+United States,Michigan,Stevensville,2
+United States,Michigan,Tecumseh,2
+United States,Michigan,Vicksburg,2
+United States,Michigan,Williamston,2
+United States,Michigan,Wyoming,2
+United States,Michigan,Ada,1
+United States,Michigan,Adrian,1
+United States,Michigan,Alanson,1
+United States,Michigan,Albion,1
+United States,Michigan,Allen Park,1
+United States,Michigan,Allendale,1
+United States,Michigan,Alma,1
+United States,Michigan,Alpena,1
+United States,Michigan,Armada,1
+United States,Michigan,Auburn Hills,1
+United States,Michigan,Bangor,1
+United States,Michigan,Battle Creek,1
+United States,Michigan,Beaver Island,1
+United States,Michigan,Belding,1
+United States,Michigan,Bellaire,1
+United States,Michigan,Beulah,1
+United States,Michigan,Bloomfield Hills,1
+United States,Michigan,Boyne City,1
+United States,Michigan,Brighton,1
+United States,Michigan,Brohman,1
+United States,Michigan,Buchanan,1
+United States,Michigan,Cadillac,1
+United States,Michigan,Caledonia,1
+United States,Michigan,Calumet,1
+United States,Michigan,Canton,1
+United States,Michigan,Cedar Springs,1
+United States,Michigan,Cedarville,1
+United States,Michigan,Charlotte,1
+United States,Michigan,Cheboygan,1
+United States,Michigan,Clare,1
+United States,Michigan,Clarkston,1
+United States,Michigan,Clawson,1
+United States,Michigan,Constantine,1
+United States,Michigan,Copper Harbor,1
+United States,Michigan,Davison,1
+United States,Michigan,Delton,1
+United States,Michigan,Dewitt,1
+United States,Michigan,Dexter,1
+United States,Michigan,Dimondale,1
+United States,Michigan,Dorr,1
+United States,Michigan,Douglas,1
+United States,Michigan,Dutton,1
+United States,Michigan,Elk Rapids,1
+United States,Michigan,Fennville,1
+United States,Michigan,Fife Lake,1
+United States,Michigan,Frankenmuth,1
+United States,Michigan,Fremont,1
+United States,Michigan,Galesburg,1
+United States,Michigan,Gaylord,1
+United States,Michigan,Grand Marais,1
+United States,Michigan,Grand rapids,1
+United States,Michigan,Grass Lake,1
+United States,Michigan,Greenville,1
+United States,Michigan,Grosse Pointe Park,1
+United States,Michigan,Harbor Springs,1
+United States,Michigan,Hart,1
+United States,Michigan,Hazel Park,1
+United States,Michigan,Hemlock,1
+United States,Michigan,Hillsdale,1
+United States,Michigan,Holly,1
+United States,Michigan,Ionia,1
+United States,Michigan,Ironwood,1
+United States,Michigan,Ithaca,1
+United States,Michigan,Kingsford,1
+United States,Michigan,Lake Ann,1
+United States,Michigan,Lapeer,1
+United States,Michigan,Lawton,1
+United States,Michigan,Lexington,1
+United States,Michigan,Lincoln Park,1
+United States,Michigan,Mackinaw City,1
+United States,Michigan,Manistee,1
+United States,Michigan,Manistique,1
+United States,Michigan,Marine City,1
+United States,Michigan,Marysville,1
+United States,Michigan,Midland,1
+United States,Michigan,Milan,1
+United States,Michigan,Morley,1
+United States,Michigan,Munising,1
+United States,Michigan,New Hudson,1
+United States,Michigan,Newaygo,1
+United States,Michigan,Novi,1
+United States,Michigan,Oscoda,1
+United States,Michigan,Oxford,1
+United States,Michigan,PAW PAW,1
+United States,Michigan,Paradise,1
+United States,Michigan,Plainwell,1
+United States,Michigan,Plymouth,1
+United States,Michigan,Port Austin,1
+United States,Michigan,Reed City,1
+United States,Michigan,Rochester,1
+United States,Michigan,Saint Joseph,1
+United States,Michigan,Sandusky,1
+United States,Michigan,Shelby Charter Township,1
+United States,Michigan,Shelby Township,1
+United States,Michigan,Sparta,1
+United States,Michigan,Spring Lake,1
+United States,Michigan,Suttons Bay,1
+United States,Michigan,Tawas City,1
+United States,Michigan,Three Rivers,1
+United States,Michigan,Troy,1
+United States,Michigan,Washington,1
+United States,Michigan,Waterford,1
+United States,Michigan,Watervliet,1
+United States,Michigan,Wayland,1
+United States,Michigan,West Branch,1
+United States,Michigan,Whitehall,1
+United States,Michigan,Wixom,1
+United States,Michigan,Wyandotte,1
+United States,Michigan,Zeeland,1
+United States,Minnesota,Minneapolis,39
+United States,Minnesota,Saint Paul,22
+United States,Minnesota,Duluth,9
+United States,Minnesota,Rochester,5
+United States,Minnesota,Eagan,3
+United States,Minnesota,Saint Cloud,3
+United States,Minnesota,Shakopee,3
+United States,Minnesota,Blaine,2
+United States,Minnesota,Burnsville,2
+United States,Minnesota,Fergus Falls,2
+United States,Minnesota,Grand Marais,2
+United States,Minnesota,Lakeville,2
+United States,Minnesota,Long Lake,2
+United States,Minnesota,Maple Grove,2
+United States,Minnesota,Nisswa,2
+United States,Minnesota,Northfield,2
+United States,Minnesota,Stillwater,2
+United States,Minnesota,Waconia,2
+United States,Minnesota,White Bear Lake,2
+United States,Minnesota,Alexandria,1
+United States,Minnesota,Annandale,1
+United States,Minnesota,Anoka,1
+United States,Minnesota,Ashby,1
+United States,Minnesota,Baxter,1
+United States,Minnesota,Belle Plaine,1
+United States,Minnesota,Bemidji,1
+United States,Minnesota,Bethel,1
+United States,Minnesota,Big Lake,1
+United States,Minnesota,Blue Earth,1
+United States,Minnesota,Brainerd,1
+United States,Minnesota,Brooklyn Ctr,1
+United States,Minnesota,Brooklyn Park,1
+United States,Minnesota,Buffalo,1
+United States,Minnesota,Chaska,1
+United States,Minnesota,Cold Spring,1
+United States,Minnesota,Coon Rapids,1
+United States,Minnesota,Crosby,1
+United States,Minnesota,Crosslake,1
+United States,Minnesota,Delano,1
+United States,Minnesota,Detroit Lakes,1
+United States,Minnesota,Dundas,1
+United States,Minnesota,Edina,1
+United States,Minnesota,Ely,1
+United States,Minnesota,Excelsior,1
+United States,Minnesota,Faribault,1
+United States,Minnesota,Fountain,1
+United States,Minnesota,Grand Rapids,1
+United States,Minnesota,Hallock,1
+United States,Minnesota,Hastings,1
+United States,Minnesota,Hendricks,1
+United States,Minnesota,Hibbing,1
+United States,Minnesota,Hopkins,1
+United States,Minnesota,Hugo,1
+United States,Minnesota,Jordan,1
+United States,Minnesota,Lino Lakes,1
+United States,Minnesota,Little Falls,1
+United States,Minnesota,Luverne,1
+United States,Minnesota,Mantorville,1
+United States,Minnesota,Marshall,1
+United States,Minnesota,Minnetonka,1
+United States,Minnesota,Montevideo,1
+United States,Minnesota,Montgomery,1
+United States,Minnesota,Moorhead,1
+United States,Minnesota,Moose Lake,1
+United States,Minnesota,New Brighton,1
+United States,Minnesota,New London,1
+United States,Minnesota,New Prague,1
+United States,Minnesota,New Ulm,1
+United States,Minnesota,North Mankato,1
+United States,Minnesota,Oakdale,1
+United States,Minnesota,Perham,1
+United States,Minnesota,Pine City,1
+United States,Minnesota,Plymouth,1
+United States,Minnesota,Prior Lake,1
+United States,Minnesota,Ranier,1
+United States,Minnesota,Reads Landing,1
+United States,Minnesota,Red Wing,1
+United States,Minnesota,Rollingstone,1
+United States,Minnesota,Roseville,1
+United States,Minnesota,Saint Joseph,1
+United States,Minnesota,Sauk Rapids,1
+United States,Minnesota,Spring Lake Park,1
+United States,Minnesota,Spring Park,1
+United States,Minnesota,St Louis Park,1
+United States,Minnesota,Two Harbors,1
+United States,Minnesota,Victoria,1
+United States,Minnesota,Waseca,1
+United States,Minnesota,Wayzata,1
+United States,Minnesota,Willernie,1
+United States,Minnesota,Williams,1
+United States,Minnesota,Willmar,1
+United States,Minnesota,Winona,1
+United States,Minnesota,Woodbury,1
+United States,Minnesota,wayzata,1
+United States,Mississippi,Hattiesburg,2
+United States,Mississippi,Ocean Springs,2
+United States,Mississippi,Biloxi,1
+United States,Mississippi,Greenville,1
+United States,Mississippi,Gulfport,1
+United States,Mississippi,Jackson,1
+United States,Mississippi,Kiln,1
+United States,Mississippi,Laurel,1
+United States,Mississippi,Meridian,1
+United States,Mississippi,Natchez,1
+United States,Mississippi,Oxford,1
+United States,Mississippi,Starkville,1
+United States,Mississippi,Vicksburg,1
+United States,Mississippi,Water Valley,1
+United States,Mississippi,okolona,1
+United States,Missouri,Saint Louis,28
+United States,Missouri,Kansas City,21
+United States,Missouri,Springfield,8
+United States,Missouri,Lees Summit,6
+United States,Missouri,Columbia,4
+United States,Missouri,O Fallon,4
+United States,Missouri,North Kansas City,3
+United States,Missouri,Saint Charles,3
+United States,Missouri,Blue Springs,2
+United States,Missouri,Independence,2
+United States,Missouri,Liberty,2
+United States,Missouri,Maplewood,2
+United States,Missouri,Maryland Heights,2
+United States,Missouri,Sainte Genevieve,2
+United States,Missouri,St Joseph,2
+United States,Missouri,Washington,2
+United States,Missouri,West Plains,2
+United States,Missouri,Alba,1
+United States,Missouri,Berger,1
+United States,Missouri,Branson,1
+United States,Missouri,Bucyrus,1
+United States,Missouri,Cape Girardeau,1
+United States,Missouri,Carrollton,1
+United States,Missouri,Cassville,1
+United States,Missouri,Chesterfield,1
+United States,Missouri,Cleveland,1
+United States,Missouri,Creve Coeur,1
+United States,Missouri,Drexel,1
+United States,Missouri,Ellisville,1
+United States,Missouri,Eureka,1
+United States,Missouri,Excelsior Springs,1
+United States,Missouri,Festus,1
+United States,Missouri,Florissant,1
+United States,Missouri,Grandview,1
+United States,Missouri,Hamilton,1
+United States,Missouri,Hannibal,1
+United States,Missouri,Hermann,1
+United States,Missouri,Higginsville,1
+United States,Missouri,High Ridge,1
+United States,Missouri,Jackson,1
+United States,Missouri,Jefferson City,1
+United States,Missouri,Joplin,1
+United States,Missouri,Kirkwood,1
+United States,Missouri,Labadie,1
+United States,Missouri,Neosho,1
+United States,Missouri,Pacific,1
+United States,Missouri,Park Hills,1
+United States,Missouri,Perryville,1
+United States,Missouri,Phillipsburg,1
+United States,Missouri,Pontiac,1
+United States,Missouri,Poplar Bluff,1
+United States,Missouri,Raytown,1
+United States,Missouri,Rolla,1
+United States,Missouri,Saint James,1
+United States,Missouri,Saint Peters,1
+United States,Missouri,Saint Robert,1
+United States,Missouri,Stover,1
+United States,Missouri,Valley Park,1
+United States,Missouri,Versailles,1
+United States,Missouri,Waynesville,1
+United States,Missouri,Webb City,1
+United States,Missouri,Wentzville,1
+United States,Missouri,Weston,1
+United States,Montana,Bozeman,10
+United States,Montana,Missoula,10
+United States,Montana,Billings,7
+United States,Montana,Helena,5
+United States,Montana,Kalispell,5
+United States,Montana,Belgrade,3
+United States,Montana,Butte,3
+United States,Montana,Hamilton,3
+United States,Montana,Livingston,3
+United States,Montana,Big Sky,2
+United States,Montana,Bigfork,2
+United States,Montana,Bonner,2
+United States,Montana,Great Falls,2
+United States,Montana,Havre,2
+United States,Montana,Lolo,2
+United States,Montana,Philipsburg,2
+United States,Montana,Stevensville,2
+United States,Montana,Whitefish,2
+United States,Montana,Anaconda,1
+United States,Montana,Belt,1
+United States,Montana,Black Eagle,1
+United States,Montana,Clancy,1
+United States,Montana,Columbia Falls,1
+United States,Montana,Cut Bank,1
+United States,Montana,Deer Lodge,1
+United States,Montana,Dillon,1
+United States,Montana,Eureka,1
+United States,Montana,Glasgow,1
+United States,Montana,Glendive,1
+United States,Montana,Harlowton,1
+United States,Montana,Lakeside,1
+United States,Montana,Laurel,1
+United States,Montana,Lewistown,1
+United States,Montana,Libby,1
+United States,Montana,Malta,1
+United States,Montana,Miles City,1
+United States,Montana,Polson,1
+United States,Montana,Red Lodge,1
+United States,Montana,Sheridan,1
+United States,Montana,Sidney,1
+United States,Montana,White Sulphur Springs,1
+United States,Montana,Wibaux,1
+United States,Montana,Wolf Point,1
+United States,Nebraska,Omaha,14
+United States,Nebraska,Lincoln,13
+United States,Nebraska,La Vista,3
+United States,Nebraska,Hastings,2
+United States,Nebraska,North Platte,2
+United States,Nebraska,Albion,1
+United States,Nebraska,Alliance,1
+United States,Nebraska,Atkinson,1
+United States,Nebraska,Beatrice,1
+United States,Nebraska,Broken Bow,1
+United States,Nebraska,Columbus,1
+United States,Nebraska,Cozad,1
+United States,Nebraska,Fairfield,1
+United States,Nebraska,Grand Island,1
+United States,Nebraska,Gretna,1
+United States,Nebraska,Holdrege,1
+United States,Nebraska,Imperial,1
+United States,Nebraska,Kearney,1
+United States,Nebraska,Kearny,1
+United States,Nebraska,LaVista,1
+United States,Nebraska,Mc Cook,1
+United States,Nebraska,Norfolk,1
+United States,Nebraska,Ohiowa,1
+United States,Nebraska,Ord,1
+United States,Nebraska,Papillion,1
+United States,Nebraska,Pawnee City,1
+United States,Nebraska,Plattsmouth,1
+United States,Nebraska,Scottsbluff,1
+United States,Nebraska,Seward,1
+United States,Nebraska,Springfield,1
+United States,Nebraska,Taylor,1
+United States,Nebraska,Valentine,1
+United States,Nebraska,Wayne,1
+United States,Nevada,Reno,19
+United States,Nevada,Las Vegas,13
+United States,Nevada,Henderson,7
+United States,Nevada,Sparks,3
+United States,Nevada,Carson City,2
+United States,Nevada,Boulder City,1
+United States,Nevada,Elko,1
+United States,Nevada,Incline Village,1
+United States,Nevada,Laughlin,1
+United States,Nevada,Tonopah,1
+United States,Nevada,Virginia City,1
+United States,Nevada,Wells,1
+United States,New Hampshire,Manchester,9
+United States,New Hampshire,Nashua,8
+United States,New Hampshire,Portsmouth,8
+United States,New Hampshire,Londonderry,5
+United States,New Hampshire,Dover,4
+United States,New Hampshire,Bristol,3
+United States,New Hampshire,Concord,3
+United States,New Hampshire,Derry,3
+United States,New Hampshire,Exeter,3
+United States,New Hampshire,Keene,3
+United States,New Hampshire,North Conway,3
+United States,New Hampshire,Plymouth,3
+United States,New Hampshire,Conway,2
+United States,New Hampshire,Hampton,2
+United States,New Hampshire,Littleton,2
+United States,New Hampshire,Merrimack,2
+United States,New Hampshire,Milford,2
+United States,New Hampshire,North Woodstock,2
+United States,New Hampshire,Northwood,2
+United States,New Hampshire,Salem,2
+United States,New Hampshire,Swanzey,2
+United States,New Hampshire,Wolfeboro,2
+United States,New Hampshire,Alstead,1
+United States,New Hampshire,Amherst,1
+United States,New Hampshire,Ashland,1
+United States,New Hampshire,Auburn,1
+United States,New Hampshire,Bethlehem,1
+United States,New Hampshire,Campton,1
+United States,New Hampshire,Canterbury,1
+United States,New Hampshire,Croydon,1
+United States,New Hampshire,Epsom,1
+United States,New Hampshire,Franconia,1
+United States,New Hampshire,Franklin,1
+United States,New Hampshire,Goffstown,1
+United States,New Hampshire,Groveton,1
+United States,New Hampshire,Hancock,1
+United States,New Hampshire,Henniker,1
+United States,New Hampshire,Holderness,1
+United States,New Hampshire,Hooksett,1
+United States,New Hampshire,Intervale,1
+United States,New Hampshire,Lancaster,1
+United States,New Hampshire,Langdon,1
+United States,New Hampshire,Lincoln,1
+United States,New Hampshire,New London,1
+United States,New Hampshire,Newington,1
+United States,New Hampshire,Newmarket,1
+United States,New Hampshire,North Hampton,1
+United States,New Hampshire,Peterborough,1
+United States,New Hampshire,Richmond,1
+United States,New Hampshire,Rochester,1
+United States,New Hampshire,Roxbury,1
+United States,New Hampshire,Rumney,1
+United States,New Hampshire,Salisbury,1
+United States,New Hampshire,Somersworth,1
+United States,New Hampshire,Sunapee,1
+United States,New Hampshire,Suncook,1
+United States,New Hampshire,Tilton,1
+United States,New Hampshire,Troy,1
+United States,New Hampshire,West Ossipee,1
+United States,New Hampshire,Winchester,1
+United States,New Jersey,Hackettstown,3
+United States,New Jersey,Hammonton,3
+United States,New Jersey,Asbury Park,2
+United States,New Jersey,Cape May,2
+United States,New Jersey,Cape May Court House,2
+United States,New Jersey,Egg Harbor Township,2
+United States,New Jersey,Fairfield,2
+United States,New Jersey,Flemington,2
+United States,New Jersey,Glassboro,2
+United States,New Jersey,Hackensack,2
+United States,New Jersey,Jersey City,2
+United States,New Jersey,Medford,2
+United States,New Jersey,Montclair,2
+United States,New Jersey,Mount Holly,2
+United States,New Jersey,Pitman,2
+United States,New Jersey,Rio Grande,2
+United States,New Jersey,South Orange,2
+United States,New Jersey,Toms River,2
+United States,New Jersey,Atco,1
+United States,New Jersey,Atlantic City,1
+United States,New Jersey,Atlantic Highlands,1
+United States,New Jersey,Beach Haven,1
+United States,New Jersey,Belford,1
+United States,New Jersey,Belmar,1
+United States,New Jersey,Berkeley Heights,1
+United States,New Jersey,Berlin,1
+United States,New Jersey,Blairstown,1
+United States,New Jersey,Bordentown,1
+United States,New Jersey,Bradley Beach,1
+United States,New Jersey,Burlington,1
+United States,New Jersey,Butler,1
+United States,New Jersey,Chatham,1
+United States,New Jersey,Cherry Hill,1
+United States,New Jersey,Clarksboro,1
+United States,New Jersey,Collingswood,1
+United States,New Jersey,Colts Neck,1
+United States,New Jersey,Cream Ridge,1
+United States,New Jersey,Edison,1
+United States,New Jersey,Ewing,1
+United States,New Jersey,Forked River,1
+United States,New Jersey,Galloway,1
+United States,New Jersey,Haddon Heights,1
+United States,New Jersey,Hillsborough,1
+United States,New Jersey,Hoboken,1
+United States,New Jersey,Hopewell,1
+United States,New Jersey,Keansburg,1
+United States,New Jersey,Kenilworth,1
+United States,New Jersey,Lafayette,1
+United States,New Jersey,Lakewood,1
+United States,New Jersey,Little Egg Harbor Twp,1
+United States,New Jersey,Little Ferry,1
+United States,New Jersey,Long Branch,1
+United States,New Jersey,Long Valley,1
+United States,New Jersey,Manahawkin,1
+United States,New Jersey,Manasquan,1
+United States,New Jersey,Maple Shade,1
+United States,New Jersey,Marlton,1
+United States,New Jersey,Merchantville,1
+United States,New Jersey,Middlesex,1
+United States,New Jersey,Milford,1
+United States,New Jersey,Millville,1
+United States,New Jersey,Morristown,1
+United States,New Jersey,Neptune City,1
+United States,New Jersey,New Brunswick,1
+United States,New Jersey,Newark,1
+United States,New Jersey,Newton,1
+United States,New Jersey,North Bergen,1
+United States,New Jersey,Oaklyn,1
+United States,New Jersey,Ocean,1
+United States,New Jersey,Ocean City,1
+United States,New Jersey,Ocean View,1
+United States,New Jersey,Pennington,1
+United States,New Jersey,Pennsauken,1
+United States,New Jersey,Point Pleasant Beach,1
+United States,New Jersey,Point Pleasant Boro,1
+United States,New Jersey,Pompton Lakes,1
+United States,New Jersey,Princeton,1
+United States,New Jersey,Rahway,1
+United States,New Jersey,Red Bank,1
+United States,New Jersey,Ridgefield Park,1
+United States,New Jersey,Roselle Park,1
+United States,New Jersey,Seaside Heights,1
+United States,New Jersey,Shamong,1
+United States,New Jersey,Somerdale,1
+United States,New Jersey,Somers Point,1
+United States,New Jersey,Sparta,1
+United States,New Jersey,Tinton Falls,1
+United States,New Jersey,Vineland,1
+United States,New Jersey,Voorhees,1
+United States,New Jersey,West Orange,1
+United States,New Jersey,Whitehouse Station,1
+United States,New Jersey,Wildwood,1
+United States,New Jersey,Williamstown,1
+United States,New Jersey,Woodbridge,1
+United States,New Jersey,Woodbury,1
+United States,New Mexico,Albuquerque,32
+United States,New Mexico,Santa Fe,11
+United States,New Mexico,Las Cruces,6
+United States,New Mexico,Rio Rancho,3
+United States,New Mexico,Bernalillo,2
+United States,New Mexico,Carlsbad,2
+United States,New Mexico,Corrales,2
+United States,New Mexico,Grants,2
+United States,New Mexico,Taos,2
+United States,New Mexico,Angel Fire,1
+United States,New Mexico,Artesia,1
+United States,New Mexico,Aztec,1
+United States,New Mexico,Cedar Crest,1
+United States,New Mexico,Cimarron,1
+United States,New Mexico,Eagle Nest,1
+United States,New Mexico,El Prado,1
+United States,New Mexico,Embudo,1
+United States,New Mexico,Farmington,1
+United States,New Mexico,Los Alamos,1
+United States,New Mexico,Los Ranchos de Albuquerque,1
+United States,New Mexico,Lovington,1
+United States,New Mexico,Moriarty,1
+United States,New Mexico,Mosquero,1
+United States,New Mexico,Ojo Caliente,1
+United States,New Mexico,Portales,1
+United States,New Mexico,Raton,1
+United States,New Mexico,Red River,1
+United States,New Mexico,Ruidoso Downs,1
+United States,New Mexico,Silver City,1
+United States,New Mexico,Truth or Consequences,1
+United States,New York,Brooklyn,27
+United States,New York,Buffalo,17
+United States,New York,Rochester,15
+United States,New York,New York,13
+United States,New York,Syracuse,10
+United States,New York,Long Island City,7
+United States,New York,Canandaigua,6
+United States,New York,Geneva,6
+United States,New York,New Paltz,6
+United States,New York,Riverhead,6
+United States,New York,Farmingdale,5
+United States,New York,Poughkeepsie,5
+United States,New York,Saratoga Springs,5
+United States,New York,Albany,4
+United States,New York,Bay Shore,4
+United States,New York,Bronx,4
+United States,New York,Corning,4
+United States,New York,Hammondsport,4
+United States,New York,Holbrook,4
+United States,New York,Auburn,3
+United States,New York,Fairport,3
+United States,New York,Glens Falls,3
+United States,New York,Hector,3
+United States,New York,Ithaca,3
+United States,New York,Lake Placid,3
+United States,New York,Patchogue,3
+United States,New York,Penn Yan,3
+United States,New York,Plattsburgh,3
+United States,New York,Schenectady,3
+United States,New York,Staten Island,3
+United States,New York,Watertown,3
+United States,New York,Baldwinsville,2
+United States,New York,Beacon,2
+United States,New York,Binghamton,2
+United States,New York,Bloomfield,2
+United States,New York,Brockport,2
+United States,New York,Burdett,2
+United States,New York,Cazenovia,2
+United States,New York,Chester,2
+United States,New York,Clarence,2
+United States,New York,Cooperstown,2
+United States,New York,Gardiner,2
+United States,New York,Hudson,2
+United States,New York,Hyde Park,2
+United States,New York,Kingston,2
+United States,New York,Livingston Manor,2
+United States,New York,Mamaroneck,2
+United States,New York,Manlius,2
+United States,New York,Middletown,2
+United States,New York,Northport,2
+United States,New York,Oneonta,2
+United States,New York,Ossining,2
+United States,New York,Pearl River,2
+United States,New York,Peekskill,2
+United States,New York,Queensbury,2
+United States,New York,Ridgewood,2
+United States,New York,Rocky Point,2
+United States,New York,Schroon Lake,2
+United States,New York,Spencerport,2
+United States,New York,Troy,2
+United States,New York,Tupper Lake,2
+United States,New York,Utica,2
+United States,New York,Victor,2
+United States,New York,Wappingers Falls,2
+United States,New York,Watkins Glen,2
+United States,New York,Webster,2
+United States,New York,Accord,1
+United States,New York,Akwesasne,1
+United States,New York,Altamont,1
+United States,New York,Amityville,1
+United States,New York,Amsterdam,1
+United States,New York,Arverne,1
+United States,New York,Astoria,1
+United States,New York,Athens,1
+United States,New York,Ballston Lake,1
+United States,New York,Batavia,1
+United States,New York,Blauvelt,1
+United States,New York,Bolton Landing,1
+United States,New York,Brewster,1
+United States,New York,Canastota,1
+United States,New York,Cape Vincent,1
+United States,New York,Catskill,1
+United States,New York,Center Moriches,1
+United States,New York,Centerport,1
+United States,New York,Chase Mills,1
+United States,New York,Chatham,1
+United States,New York,Cheektowaga,1
+United States,New York,Chemung,1
+United States,New York,Cherry Valley,1
+United States,New York,Clay,1
+United States,New York,Clayton,1
+United States,New York,Clifton Park,1
+United States,New York,Cohoes,1
+United States,New York,Cold Spring,1
+United States,New York,College Point,1
+United States,New York,Cortland,1
+United States,New York,Davenport,1
+United States,New York,Delmar,1
+United States,New York,Dickinson Center,1
+United States,New York,Dobbs Ferry,1
+United States,New York,Dryden,1
+United States,New York,Dundee,1
+United States,New York,Earlton,1
+United States,New York,East Aurora,1
+United States,New York,East Berne,1
+United States,New York,Eldred,1
+United States,New York,Elizaville,1
+United States,New York,Ellicottville,1
+United States,New York,Elmira,1
+United States,New York,Elmsford,1
+United States,New York,Endicott,1
+United States,New York,Farmington,1
+United States,New York,Florida,1
+United States,New York,Flushing,1
+United States,New York,Fort Ann,1
+United States,New York,Fort Drum,1
+United States,New York,Freeport,1
+United States,New York,Freeville,1
+United States,New York,Friendship,1
+United States,New York,Garnerville,1
+United States,New York,Garrattsville,1
+United States,New York,Glen Cove,1
+United States,New York,Gloversville,1
+United States,New York,Gouverneur,1
+United States,New York,Greenville,1
+United States,New York,Greenwich,1
+United States,New York,Groton,1
+United States,New York,Hamburg,1
+United States,New York,Hamilton,1
+United States,New York,Hicksville,1
+United States,New York,Highland,1
+United States,New York,Hilton,1
+United States,New York,Himrod,1
+United States,New York,Holland Patent,1
+United States,New York,Honeoye Falls,1
+United States,New York,Hornell,1
+United States,New York,Howes Cave,1
+United States,New York,Huntington,1
+United States,New York,Ilion,1
+United States,New York,Interlaken,1
+United States,New York,Jamestown,1
+United States,New York,Jamesville,1
+United States,New York,Johnson City,1
+United States,New York,Keeseville,1
+United States,New York,King Ferry,1
+United States,New York,Lake George,1
+United States,New York,Lakewood,1
+United States,New York,Lansing,1
+United States,New York,Lewiston,1
+United States,New York,Linwood,1
+United States,New York,Lockport,1
+United States,New York,Lodi,1
+United States,New York,Lowville,1
+United States,New York,Mahopac,1
+United States,New York,Malone,1
+United States,New York,Manchester,1
+United States,New York,Marietta,1
+United States,New York,Mattituck,1
+United States,New York,Mayville,1
+United States,New York,Mechanicville,1
+United States,New York,Middleburgh,1
+United States,New York,Millerton,1
+United States,New York,Monroe,1
+United States,New York,Montauk,1
+United States,New York,Montour Falls,1
+United States,New York,Moriah,1
+United States,New York,Morrisville,1
+United States,New York,Munnsville,1
+United States,New York,Nassau,1
+United States,New York,New City,1
+United States,New York,Newburgh,1
+United States,New York,North Hoosick,1
+United States,New York,North Syracuse,1
+United States,New York,Oceanside,1
+United States,New York,Old Forge,1
+United States,New York,Olean,1
+United States,New York,Oswego,1
+United States,New York,Ovid,1
+United States,New York,Owego,1
+United States,New York,Oyster Bay,1
+United States,New York,Peconic,1
+United States,New York,Penfield,1
+United States,New York,Perry,1
+United States,New York,Peru,1
+United States,New York,Petersburg,1
+United States,New York,Phelps,1
+United States,New York,Phoenicia,1
+United States,New York,Pine Island,1
+United States,New York,Pittsford,1
+United States,New York,Port Crane,1
+United States,New York,Port Jefferson,1
+United States,New York,Port Jefferson Station,1
+United States,New York,Port Jervis,1
+United States,New York,Queens,1
+United States,New York,Red Hook,1
+United States,New York,Rensselaerville,1
+United States,New York,Ripley,1
+United States,New York,Rome,1
+United States,New York,Roscoe,1
+United States,New York,Sackets Harbor,1
+United States,New York,Salem,1
+United States,New York,Saranac Lake,1
+United States,New York,Seneca Falls,1
+United States,New York,Shelter Island,1
+United States,New York,Sherburne,1
+United States,New York,South Glens Falls,1
+United States,New York,Southampton,1
+United States,New York,Strykersville,1
+United States,New York,Tarrytown,1
+United States,New York,Troupsburg,1
+United States,New York,Trumansburg,1
+United States,New York,Tuckahoe,1
+United States,New York,Warners,1
+United States,New York,Warsaw,1
+United States,New York,Wawarsing,1
+United States,New York,Weedsport,1
+United States,New York,West Islip,1
+United States,New York,West Kill,1
+United States,New York,West Park,1
+United States,New York,Westfield,1
+United States,New York,Westport,1
+United States,New York,Westtown,1
+United States,New York,White Plains,1
+United States,New York,Williamsville,1
+United States,New York,Wilson,1
+United States,New York,Windham,1
+United States,New York,Yonkers,1
+United States,North Carolina,Charlotte,31
+United States,North Carolina,Asheville,27
+United States,North Carolina,Raleigh,23
+United States,North Carolina,Wilmington,15
+United States,North Carolina,Durham,12
+United States,North Carolina,Greensboro,9
+United States,North Carolina,Winston Salem,7
+United States,North Carolina,Concord,5
+United States,North Carolina,Fuquay Varina,5
+United States,North Carolina,Boone,4
+United States,North Carolina,Chapel Hill,4
+United States,North Carolina,Fayetteville,4
+United States,North Carolina,Arden,3
+United States,North Carolina,Brevard,3
+United States,North Carolina,Carrboro,3
+United States,North Carolina,Cary,3
+United States,North Carolina,Cornelius,3
+United States,North Carolina,Greenville,3
+United States,North Carolina,Hendersonville,3
+United States,North Carolina,Hickory,3
+United States,North Carolina,High Point,3
+United States,North Carolina,Mooresville,3
+United States,North Carolina,Mount Airy,3
+United States,North Carolina,Rocky Mount,3
+United States,North Carolina,Weaverville,3
+United States,North Carolina,Andrews,2
+United States,North Carolina,Angier,2
+United States,North Carolina,Apex,2
+United States,North Carolina,Belmont,2
+United States,North Carolina,Black Mountain,2
+United States,North Carolina,Bryson City,2
+United States,North Carolina,Elkin,2
+United States,North Carolina,Fairview,2
+United States,North Carolina,Franklin,2
+United States,North Carolina,Hillsborough,2
+United States,North Carolina,Holly Springs,2
+United States,North Carolina,Lincolnton,2
+United States,North Carolina,Morehead City,2
+United States,North Carolina,Morganton,2
+United States,North Carolina,New Bern,2
+United States,North Carolina,Pinehurst,2
+United States,North Carolina,Pisgah Forest,2
+United States,North Carolina,Pittsboro,2
+United States,North Carolina,Salisbury,2
+United States,North Carolina,Southern Pines,2
+United States,North Carolina,Sylva,2
+United States,North Carolina,Wake Forest,2
+United States,North Carolina,Waynesville,2
+United States,North Carolina,Aberdeen,1
+United States,North Carolina,Ahoskie,1
+United States,North Carolina,Asheboro,1
+United States,North Carolina,Banner Elk,1
+United States,North Carolina,Bear Creek,1
+United States,North Carolina,Beaufort,1
+United States,North Carolina,Beech Mountain,1
+United States,North Carolina,Blowing Rock,1
+United States,North Carolina,Burnsville,1
+United States,North Carolina,Candler,1
+United States,North Carolina,Canton,1
+United States,North Carolina,Carolina Beach,1
+United States,North Carolina,Clayton,1
+United States,North Carolina,Clemmons,1
+United States,North Carolina,Corolla,1
+United States,North Carolina,Dallas,1
+United States,North Carolina,Davidson,1
+United States,North Carolina,Elizabeth City,1
+United States,North Carolina,Farmville,1
+United States,North Carolina,Flat Rock,1
+United States,North Carolina,Fletcher,1
+United States,North Carolina,Gastonia,1
+United States,North Carolina,Gold Hill,1
+United States,North Carolina,Graham,1
+United States,North Carolina,Grandy,1
+United States,North Carolina,Granite Falls,1
+United States,North Carolina,Hayesville,1
+United States,North Carolina,Highlands,1
+United States,North Carolina,Hope Mills,1
+United States,North Carolina,Huntersville,1
+United States,North Carolina,Indian Trail,1
+United States,North Carolina,Jamestown,1
+United States,North Carolina,Kernersville,1
+United States,North Carolina,Kill Devil Hills,1
+United States,North Carolina,Kinston,1
+United States,North Carolina,Lake Lure,1
+United States,North Carolina,Lansing,1
+United States,North Carolina,Lenoir,1
+United States,North Carolina,Lewisville,1
+United States,North Carolina,Lexington,1
+United States,North Carolina,Manteo,1
+United States,North Carolina,Marion,1
+United States,North Carolina,Marshall,1
+United States,North Carolina,Mebane,1
+United States,North Carolina,Mills River,1
+United States,North Carolina,Mint Hill,1
+United States,North Carolina,Monroe,1
+United States,North Carolina,Murphy,1
+United States,North Carolina,Nebo,1
+United States,North Carolina,Newport,1
+United States,North Carolina,Ocean Isle Beach,1
+United States,North Carolina,Ocracoke,1
+United States,North Carolina,Oriental,1
+United States,North Carolina,Oxford,1
+United States,North Carolina,Pineville,1
+United States,North Carolina,Plumtree,1
+United States,North Carolina,Reidsville,1
+United States,North Carolina,Roxboro,1
+United States,North Carolina,Rutherfordton,1
+United States,North Carolina,Sanford,1
+United States,North Carolina,Sapphire,1
+United States,North Carolina,Saxapahaw,1
+United States,North Carolina,Seagrove,1
+United States,North Carolina,Shallotte,1
+United States,North Carolina,Shelby,1
+United States,North Carolina,Smithfield,1
+United States,North Carolina,Southport,1
+United States,North Carolina,Spruce Pine,1
+United States,North Carolina,Surf City,1
+United States,North Carolina,Tarboro,1
+United States,North Carolina,Trenton,1
+United States,North Carolina,Tryon,1
+United States,North Carolina,Valdese,1
+United States,North Carolina,Waxhaw,1
+United States,North Carolina,West Jefferson,1
+United States,North Carolina,Whitsett,1
+United States,North Carolina,Wilson,1
+United States,North Carolina,Winston-Salem,1
+United States,North Carolina,Woodfin,1
+United States,North Carolina,Youngsville,1
+United States,North Dakota,Fargo,7
+United States,North Dakota,Bismarck,5
+United States,North Dakota,Grand Forks,3
+United States,North Dakota,Mandan,2
+United States,North Dakota,Minot,2
+United States,North Dakota,Dickinson,1
+United States,North Dakota,Mapleton,1
+United States,North Dakota,McKenzie,1
+United States,North Dakota,Valley City,1
+United States,North Dakota,Watford City,1
+United States,North Dakota,West Fargo,1
+United States,North Dakota,Williston,1
+United States,Ohio,Cincinnati,34
+United States,Ohio,Columbus,33
+United States,Ohio,Cleveland,29
+United States,Ohio,Akron,11
+United States,Ohio,Dayton,9
+United States,Ohio,Toledo,5
+United States,Ohio,Athens,4
+United States,Ohio,Canton,4
+United States,Ohio,Cuyahoga Falls,4
+United States,Ohio,Delaware,3
+United States,Ohio,Lakewood,3
+United States,Ohio,Lancaster,3
+United States,Ohio,Newark,3
+United States,Ohio,Sylvania,3
+United States,Ohio,Ashland,2
+United States,Ohio,Austintown,2
+United States,Ohio,Barberton,2
+United States,Ohio,Canal Winchester,2
+United States,Ohio,Centerville,2
+United States,Ohio,Chagrin Falls,2
+United States,Ohio,Cleveland Heights,2
+United States,Ohio,Geneva,2
+United States,Ohio,Grand Rapids,2
+United States,Ohio,Granville,2
+United States,Ohio,Hamilton,2
+United States,Ohio,Madison,2
+United States,Ohio,Mansfield,2
+United States,Ohio,Mason,2
+United States,Ohio,Massillon,2
+United States,Ohio,Medina,2
+United States,Ohio,Mentor,2
+United States,Ohio,Miamisburg,2
+United States,Ohio,Middleburg Heights,2
+United States,Ohio,Middletown,2
+United States,Ohio,Mount Orab,2
+United States,Ohio,Powell,2
+United States,Ohio,Strongsville,2
+United States,Ohio,Warren,2
+United States,Ohio,Wauseon,2
+United States,Ohio,West Chester,2
+United States,Ohio,Willoughby,2
+United States,Ohio,Zanesville,2
+United States,Ohio,Avon,1
+United States,Ohio,Beavercreek,1
+United States,Ohio,Belle Center,1
+United States,Ohio,Bellefontaine,1
+United States,Ohio,Berea,1
+United States,Ohio,Bidwell,1
+United States,Ohio,Bloomingdale,1
+United States,Ohio,Blue Ash,1
+United States,Ohio,Bolivar,1
+United States,Ohio,Bowling Green,1
+United States,Ohio,Brunswick,1
+United States,Ohio,Bryan,1
+United States,Ohio,Buckeye Lake,1
+United States,Ohio,Cadiz,1
+United States,Ohio,Cambridge,1
+United States,Ohio,Carroll,1
+United States,Ohio,Catawba Island,1
+United States,Ohio,Celina,1
+United States,Ohio,Chardon,1
+United States,Ohio,Coldwater,1
+United States,Ohio,Columbiana,1
+United States,Ohio,Coshocton,1
+United States,Ohio,Defiance,1
+United States,Ohio,Elyria,1
+United States,Ohio,Fairfield,1
+United States,Ohio,Findlay,1
+United States,Ohio,Fresno,1
+United States,Ohio,Gahanna,1
+United States,Ohio,Grove City,1
+United States,Ohio,Hartville,1
+United States,Ohio,Heath,1
+United States,Ohio,Hicksville,1
+United States,Ohio,Hinckley,1
+United States,Ohio,Holland,1
+United States,Ohio,Huber Heights,1
+United States,Ohio,Hudson,1
+United States,Ohio,Huntsville,1
+United States,Ohio,Jackson,1
+United States,Ohio,Kent,1
+United States,Ohio,Lake Milton,1
+United States,Ohio,Lewis Center,1
+United States,Ohio,Lisbon,1
+United States,Ohio,Logan,1
+United States,Ohio,Lorain,1
+United States,Ohio,Loveland,1
+United States,Ohio,Maineville,1
+United States,Ohio,Marengo,1
+United States,Ohio,Maria Stein,1
+United States,Ohio,Marietta,1
+United States,Ohio,Marion,1
+United States,Ohio,Marysville,1
+United States,Ohio,Maumee,1
+United States,Ohio,Medway,1
+United States,Ohio,Middle Bass Island,1
+United States,Ohio,Milford,1
+United States,Ohio,Millersburg,1
+United States,Ohio,Minerva,1
+United States,Ohio,Monroe,1
+United States,Ohio,Morrow,1
+United States,Ohio,Mount Vernon,1
+United States,Ohio,Mount Victory,1
+United States,Ohio,Napoleon,1
+United States,Ohio,Nelsonville,1
+United States,Ohio,Nevada,1
+United States,Ohio,New Bremen,1
+United States,Ohio,New Madison,1
+United States,Ohio,Newbury,1
+United States,Ohio,North Canton,1
+United States,Ohio,North Olmsted,1
+United States,Ohio,Oxford,1
+United States,Ohio,Pickerington,1
+United States,Ohio,Pomeroy,1
+United States,Ohio,Port Clinton,1
+United States,Ohio,Portsmouth,1
+United States,Ohio,Put In Bay,1
+United States,Ohio,Rayland,1
+United States,Ohio,Rocky River,1
+United States,Ohio,Sandusky,1
+United States,Ohio,Sherrodsville,1
+United States,Ohio,Springboro,1
+United States,Ohio,Springfield,1
+United States,Ohio,Stow,1
+United States,Ohio,Sugar Grove,1
+United States,Ohio,Sunbury,1
+United States,Ohio,Tiffin,1
+United States,Ohio,Trenton,1
+United States,Ohio,Vandalia,1
+United States,Ohio,Versailles,1
+United States,Ohio,Wadsworth,1
+United States,Ohio,Westerville,1
+United States,Ohio,Westlake,1
+United States,Ohio,Whitehall,1
+United States,Ohio,Williamsburg,1
+United States,Ohio,Wilmington,1
+United States,Ohio,Wooster,1
+United States,Ohio,Xenia,1
+United States,Ohio,Yellow Springs,1
+United States,Ohio,Youngstown,1
+United States,Ohio,middleburg hts,1
+United States,Oklahoma,Oklahoma City,14
+United States,Oklahoma,Tulsa,13
+United States,Oklahoma,Norman,3
+United States,Oklahoma,Broken Bow,2
+United States,Oklahoma,Edmond,2
+United States,Oklahoma,Bartlesville,1
+United States,Oklahoma,Broken Arrow,1
+United States,Oklahoma,Caddo,1
+United States,Oklahoma,El Reno,1
+United States,Oklahoma,Krebs,1
+United States,Oklahoma,Mead,1
+United States,Oklahoma,Moore,1
+United States,Oklahoma,Ponca City,1
+United States,Oklahoma,Pryor,1
+United States,Oklahoma,Stillwater,1
+United States,Oregon,Portland,85
+United States,Oregon,Bend,24
+United States,Oregon,Eugene,15
+United States,Oregon,Salem,9
+United States,Oregon,Corvallis,8
+United States,Oregon,Medford,8
+United States,Oregon,Astoria,6
+United States,Oregon,Redmond,6
+United States,Oregon,Roseburg,6
+United States,Oregon,Beaverton,5
+United States,Oregon,Hillsboro,5
+United States,Oregon,Hood River,5
+United States,Oregon,McMinnville,5
+United States,Oregon,Oregon City,5
+United States,Oregon,Grants Pass,4
+United States,Oregon,Gresham,4
+United States,Oregon,Albany,3
+United States,Oregon,Cannon Beach,3
+United States,Oregon,Forest Grove,3
+United States,Oregon,Newberg,3
+United States,Oregon,Newport,3
+United States,Oregon,Silverton,3
+United States,Oregon,Tillamook,3
+United States,Oregon,Ashland,2
+United States,Oregon,Baker City,2
+United States,Oregon,Brookings,2
+United States,Oregon,Clackamas,2
+United States,Oregon,Dundee,2
+United States,Oregon,Klamath Falls,2
+United States,Oregon,Lake Oswego,2
+United States,Oregon,Lebanon,2
+United States,Oregon,Lincoln City,2
+United States,Oregon,Milwaukie,2
+United States,Oregon,Ontario,2
+United States,Oregon,Pendleton,2
+United States,Oregon,Philomath,2
+United States,Oregon,Sandy,2
+United States,Oregon,Seaside,2
+United States,Oregon,Sherwood,2
+United States,Oregon,Sisters,2
+United States,Oregon,Springfield,2
+United States,Oregon,Tigard,2
+United States,Oregon,Tualatin,2
+United States,Oregon,Wilsonville,2
+United States,Oregon,Alsea,1
+United States,Oregon,Bandon,1
+United States,Oregon,Banks,1
+United States,Oregon,Boardman,1
+United States,Oregon,Burns,1
+United States,Oregon,Carlton,1
+United States,Oregon,Cascade Locks,1
+United States,Oregon,Cave Junction,1
+United States,Oregon,Coos Bay,1
+United States,Oregon,Enterprise,1
+United States,Oregon,Estacada,1
+United States,Oregon,Gold Beach,1
+United States,Oregon,Government Camp,1
+United States,Oregon,Hermiston,1
+United States,Oregon,Independence,1
+United States,Oregon,John Day,1
+United States,Oregon,Milton Freewater,1
+United States,Oregon,Mount Hood Parkdale,1
+United States,Oregon,Mt Hood,1
+United States,Oregon,Oakridge,1
+United States,Oregon,Pacific City,1
+United States,Oregon,Prineville,1
+United States,Oregon,Reedsport,1
+United States,Oregon,Saint Helens,1
+United States,Oregon,Sunriver,1
+United States,Oregon,Terrebonne,1
+United States,Oregon,The Dalles,1
+United States,Oregon,Troutdale,1
+United States,Oregon,West Linn,1
+United States,Oregon,Williams,1
+United States,Oregon,Winston,1
+United States,Oregon,Yachats,1
+United States,Pennsylvania,Pittsburgh,26
+United States,Pennsylvania,Philadelphia,23
+United States,Pennsylvania,Harrisburg,7
+United States,Pennsylvania,Erie,6
+United States,Pennsylvania,Lancaster,5
+United States,Pennsylvania,Phoenixville,5
+United States,Pennsylvania,Williamsport,5
+United States,Pennsylvania,York,5
+United States,Pennsylvania,Bethlehem,4
+United States,Pennsylvania,Danville,4
+United States,Pennsylvania,Hanover,4
+United States,Pennsylvania,Wilkes Barre,4
+United States,Pennsylvania,Allentown,3
+United States,Pennsylvania,Ardmore,3
+United States,Pennsylvania,Butler,3
+United States,Pennsylvania,Carlisle,3
+United States,Pennsylvania,Easton,3
+United States,Pennsylvania,Emmaus,3
+United States,Pennsylvania,Huntingdon Valley,3
+United States,Pennsylvania,Kennett Square,3
+United States,Pennsylvania,Meadville,3
+United States,Pennsylvania,West Chester,3
+United States,Pennsylvania,Ambler,2
+United States,Pennsylvania,Aston,2
+United States,Pennsylvania,Bangor,2
+United States,Pennsylvania,Berwyn,2
+United States,Pennsylvania,Bloomsburg,2
+United States,Pennsylvania,Camp Hill,2
+United States,Pennsylvania,Chambersburg,2
+United States,Pennsylvania,Clarion,2
+United States,Pennsylvania,Collegeville,2
+United States,Pennsylvania,Coraopolis,2
+United States,Pennsylvania,Downingtown,2
+United States,Pennsylvania,Doylestown,2
+United States,Pennsylvania,Duncannon,2
+United States,Pennsylvania,Enola,2
+United States,Pennsylvania,Ephrata,2
+United States,Pennsylvania,Export,2
+United States,Pennsylvania,Gettysburg,2
+United States,Pennsylvania,Honesdale,2
+United States,Pennsylvania,Indiana,2
+United States,Pennsylvania,Irwin,2
+United States,Pennsylvania,Kutztown,2
+United States,Pennsylvania,Latrobe,2
+United States,Pennsylvania,Lebanon,2
+United States,Pennsylvania,Lititz,2
+United States,Pennsylvania,Malvern,2
+United States,Pennsylvania,Manheim,2
+United States,Pennsylvania,Mc Kees Rocks,2
+United States,Pennsylvania,Mechanicsburg,2
+United States,Pennsylvania,Media,2
+United States,Pennsylvania,Middletown,2
+United States,Pennsylvania,Montrose,2
+United States,Pennsylvania,Mount Joy,2
+United States,Pennsylvania,New Hope,2
+United States,Pennsylvania,Oxford,2
+United States,Pennsylvania,Pottsville,2
+United States,Pennsylvania,Quakertown,2
+United States,Pennsylvania,Slippery Rock,2
+United States,Pennsylvania,State College,2
+United States,Pennsylvania,Titusville,2
+United States,Pennsylvania,West Reading,2
+United States,Pennsylvania,Zelienople,2
+United States,Pennsylvania,Abbottstown,1
+United States,Pennsylvania,Adamstown,1
+United States,Pennsylvania,Altoona,1
+United States,Pennsylvania,Annville,1
+United States,Pennsylvania,Beaver Falls,1
+United States,Pennsylvania,Bedford,1
+United States,Pennsylvania,Bellefonte,1
+United States,Pennsylvania,Berlin,1
+United States,Pennsylvania,Berwick,1
+United States,Pennsylvania,Biglerville,1
+United States,Pennsylvania,Bird In Hand,1
+United States,Pennsylvania,Boyertown,1
+United States,Pennsylvania,Braddock,1
+United States,Pennsylvania,Bradford,1
+United States,Pennsylvania,Breinigsville,1
+United States,Pennsylvania,Bridgeport,1
+United States,Pennsylvania,Bristol,1
+United States,Pennsylvania,Bryn Mawr,1
+United States,Pennsylvania,Buckingham,1
+United States,Pennsylvania,Burgettstown,1
+United States,Pennsylvania,Canonsburg,1
+United States,Pennsylvania,Carbondale,1
+United States,Pennsylvania,Castle Shannon,1
+United States,Pennsylvania,Catasauqua,1
+United States,Pennsylvania,Chalfont,1
+United States,Pennsylvania,Champion,1
+United States,Pennsylvania,Clearfield,1
+United States,Pennsylvania,Coatesville,1
+United States,Pennsylvania,Columbia,1
+United States,Pennsylvania,Conneaut Lake,1
+United States,Pennsylvania,Conshohocken,1
+United States,Pennsylvania,Conyngham,1
+United States,Pennsylvania,Croydon,1
+United States,Pennsylvania,Dallas,1
+United States,Pennsylvania,Dallastown,1
+United States,Pennsylvania,Delmont,1
+United States,Pennsylvania,Dillsburg,1
+United States,Pennsylvania,Douglassville,1
+United States,Pennsylvania,Du Bois,1
+United States,Pennsylvania,Duncansville,1
+United States,Pennsylvania,Duquesne,1
+United States,Pennsylvania,East Petersburg,1
+United States,Pennsylvania,Ebensburg,1
+United States,Pennsylvania,Edinburg,1
+United States,Pennsylvania,Elizabethtown,1
+United States,Pennsylvania,Fawn Grove,1
+United States,Pennsylvania,Gibsonia,1
+United States,Pennsylvania,Glen Mills,1
+United States,Pennsylvania,Green Lane,1
+United States,Pennsylvania,Greensburg,1
+United States,Pennsylvania,Greenville,1
+United States,Pennsylvania,Grove City,1
+United States,Pennsylvania,Harleysville,1
+United States,Pennsylvania,Harmony,1
+United States,Pennsylvania,Hatboro,1
+United States,Pennsylvania,Hatfield,1
+United States,Pennsylvania,Hawley,1
+United States,Pennsylvania,Heidelberg,1
+United States,Pennsylvania,Hellertown,1
+United States,Pennsylvania,Hermitage,1
+United States,Pennsylvania,Hershey,1
+United States,Pennsylvania,Hickory,1
+United States,Pennsylvania,Homestead,1
+United States,Pennsylvania,Howard,1
+United States,Pennsylvania,Jamestown,1
+United States,Pennsylvania,Landenberg,1
+United States,Pennsylvania,Lander,1
+United States,Pennsylvania,Lansdale,1
+United States,Pennsylvania,Lewistown,1
+United States,Pennsylvania,Mansfield,1
+United States,Pennsylvania,Marietta,1
+United States,Pennsylvania,Mars,1
+United States,Pennsylvania,Mercer,1
+United States,Pennsylvania,Mifflinburg,1
+United States,Pennsylvania,Millerstown,1
+United States,Pennsylvania,Millersville,1
+United States,Pennsylvania,Millheim,1
+United States,Pennsylvania,Monroeville,1
+United States,Pennsylvania,Morrisville,1
+United States,Pennsylvania,Moscow,1
+United States,Pennsylvania,Mount Pleasant,1
+United States,Pennsylvania,Nazareth,1
+United States,Pennsylvania,New Brighton,1
+United States,Pennsylvania,New Castle,1
+United States,Pennsylvania,New Freedom,1
+United States,Pennsylvania,New Kensington,1
+United States,Pennsylvania,New Stanton,1
+United States,Pennsylvania,Newfoundland,1
+United States,Pennsylvania,Newport,1
+United States,Pennsylvania,North East,1
+United States,Pennsylvania,North Versailles,1
+United States,Pennsylvania,North Wales,1
+United States,Pennsylvania,Oakdale,1
+United States,Pennsylvania,Oakmont,1
+United States,Pennsylvania,Palmyra,1
+United States,Pennsylvania,Parkesburg,1
+United States,Pennsylvania,Peckville,1
+United States,Pennsylvania,Perkasie,1
+United States,Pennsylvania,Pipersville,1
+United States,Pennsylvania,Pittston,1
+United States,Pennsylvania,Pocono Pines,1
+United States,Pennsylvania,Pottstown,1
+United States,Pennsylvania,Pulaski,1
+United States,Pennsylvania,Reading,1
+United States,Pennsylvania,Renfrew,1
+United States,Pennsylvania,Rochester,1
+United States,Pennsylvania,Ronks,1
+United States,Pennsylvania,Royersford,1
+United States,Pennsylvania,Saint Marys,1
+United States,Pennsylvania,Sarver,1
+United States,Pennsylvania,Sayre,1
+United States,Pennsylvania,Schwenksville,1
+United States,Pennsylvania,Selinsgrove,1
+United States,Pennsylvania,Shamokin,1
+United States,Pennsylvania,Sharon,1
+United States,Pennsylvania,Shawnee on Delaware,1
+United States,Pennsylvania,Smithton,1
+United States,Pennsylvania,Spring City,1
+United States,Pennsylvania,Spring Grove,1
+United States,Pennsylvania,Springdale,1
+United States,Pennsylvania,Stevens,1
+United States,Pennsylvania,Sunbury,1
+United States,Pennsylvania,Swarthmore,1
+United States,Pennsylvania,Swiftwater,1
+United States,Pennsylvania,Tamaqua,1
+United States,Pennsylvania,Tannersville,1
+United States,Pennsylvania,Tunkhannock,1
+United States,Pennsylvania,Uniontown,1
+United States,Pennsylvania,Vandergrift,1
+United States,Pennsylvania,Venango,1
+United States,Pennsylvania,Washington,1
+United States,Pennsylvania,West Newton,1
+United States,Pennsylvania,Wexford,1
+United States,Pennsylvania,Wyalusing,1
+United States,Pennsylvania,York Haven,1
+United States,Rhode Island,Providence,7
+United States,Rhode Island,Pawtucket,5
+United States,Rhode Island,Cranston,3
+United States,Rhode Island,Middletown,2
+United States,Rhode Island,Warwick,2
+United States,Rhode Island,Block Island,1
+United States,Rhode Island,Cumberland,1
+United States,Rhode Island,East Greenwich,1
+United States,Rhode Island,Exeter,1
+United States,Rhode Island,Newport,1
+United States,Rhode Island,North Kingstown,1
+United States,Rhode Island,Portsmouth,1
+United States,Rhode Island,South Kingstown,1
+United States,Rhode Island,Wakefield,1
+United States,Rhode Island,Warren,1
+United States,Rhode Island,West Kingston,1
+United States,Rhode Island,Westerly,1
+United States,South Carolina,Charleston,16
+United States,South Carolina,Greenville,8
+United States,South Carolina,North Charleston,8
+United States,South Carolina,Columbia,7
+United States,South Carolina,Lexington,4
+United States,South Carolina,Hilton Head Island,3
+United States,South Carolina,Mount Pleasant,3
+United States,South Carolina,Myrtle Beach,3
+United States,South Carolina,Bluffton,2
+United States,South Carolina,Florence,2
+United States,South Carolina,Greer,2
+United States,South Carolina,Ridgeland,2
+United States,South Carolina,Rock Hill,2
+United States,South Carolina,Spartanburg,2
+United States,South Carolina,Aiken,1
+United States,South Carolina,Anderson,1
+United States,South Carolina,Boiling Springs,1
+United States,South Carolina,Cayce,1
+United States,South Carolina,Fort Mill,1
+United States,South Carolina,Goose Creek,1
+United States,South Carolina,Greenwood,1
+United States,South Carolina,Johns Island,1
+United States,South Carolina,Lancaster,1
+United States,South Carolina,North Augusta,1
+United States,South Carolina,Pawleys Island,1
+United States,South Carolina,Simpsonville,1
+United States,South Carolina,Summerville,1
+United States,South Carolina,Taylors,1
+United States,South Carolina,Travelers Rest,1
+United States,South Dakota,Sioux Falls,12
+United States,South Dakota,Rapid City,8
+United States,South Dakota,Spearfish,3
+United States,South Dakota,Aberdeen,2
+United States,South Dakota,Brookings,2
+United States,South Dakota,Hill City,2
+United States,South Dakota,Watertown,2
+United States,South Dakota,Yankton,2
+United States,South Dakota,Armour,1
+United States,South Dakota,Custer,1
+United States,South Dakota,Deadwood,1
+United States,South Dakota,Geddes,1
+United States,South Dakota,Hartford,1
+United States,South Dakota,Hot Springs,1
+United States,South Dakota,Humboldt,1
+United States,South Dakota,Keystone,1
+United States,South Dakota,Lead,1
+United States,South Dakota,Sturgis,1
+United States,South Dakota,Valley Springs,1
+United States,South Dakota,Wagner,1
+United States,Tennessee,Nashville,22
+United States,Tennessee,Knoxville,19
+United States,Tennessee,Chattanooga,16
+United States,Tennessee,Memphis,13
+United States,Tennessee,Clarksville,5
+United States,Tennessee,Cookeville,4
+United States,Tennessee,Franklin,4
+United States,Tennessee,Johnson City,3
+United States,Tennessee,Bristol,2
+United States,Tennessee,Columbia,2
+United States,Tennessee,Sparta,2
+United States,Tennessee,Alcoa,1
+United States,Tennessee,Christiana,1
+United States,Tennessee,Collierville,1
+United States,Tennessee,Cordova,1
+United States,Tennessee,Cottontown,1
+United States,Tennessee,Dayton,1
+United States,Tennessee,Gatlinburg,1
+United States,Tennessee,Hendersonville,1
+United States,Tennessee,Hermitage,1
+United States,Tennessee,Jonesborough,1
+United States,Tennessee,Kingsport,1
+United States,Tennessee,Lancing,1
+United States,Tennessee,Manchester,1
+United States,Tennessee,Maryville,1
+United States,Tennessee,Murfreesboro,1
+United States,Tennessee,Nolensville,1
+United States,Tennessee,Norris,1
+United States,Tennessee,Paris,1
+United States,Tennessee,Pigeon Forge,1
+United States,Tennessee,Red Bank,1
+United States,Tennessee,Smithville,1
+United States,Tennessee,Spring Hill,1
+United States,Tennessee,Townsend,1
+United States,Tennessee,Tullahoma,1
+United States,Texas,Austin,49
+United States,Texas,Houston,40
+United States,Texas,Dallas,20
+United States,Texas,San Antonio,19
+United States,Texas,Fort Worth,12
+United States,Texas,Corpus Christi,6
+United States,Texas,Boerne,5
+United States,Texas,New Braunfels,5
+United States,Texas,Round Rock,5
+United States,Texas,San Marcos,5
+United States,Texas,Abilene,4
+United States,Texas,Amarillo,4
+United States,Texas,Cedar Park,4
+United States,Texas,Dripping Springs,4
+United States,Texas,El Paso,4
+United States,Texas,Galveston,4
+United States,Texas,Lubbock,4
+United States,Texas,Arlington,3
+United States,Texas,College Station,3
+United States,Texas,Conroe,3
+United States,Texas,Dickinson,3
+United States,Texas,Farmers Branch,3
+United States,Texas,Georgetown,3
+United States,Texas,Katy,3
+United States,Texas,McKinney,3
+United States,Texas,Pearland,3
+United States,Texas,Plano,3
+United States,Texas,Rockwall,3
+United States,Texas,Waco,3
+United States,Texas,Addison,2
+United States,Texas,Allen,2
+United States,Texas,Alvin,2
+United States,Texas,Bryan,2
+United States,Texas,Denton,2
+United States,Texas,Fredericksburg,2
+United States,Texas,Frisco,2
+United States,Texas,Garland,2
+United States,Texas,Irving,2
+United States,Texas,Kerrville,2
+United States,Texas,Leander,2
+United States,Texas,Lewisville,2
+United States,Texas,Liberty Hill,2
+United States,Texas,Marble Falls,2
+United States,Texas,Montgomery,2
+United States,Texas,Nacogdoches,2
+United States,Texas,Richardson,2
+United States,Texas,Richmond,2
+United States,Texas,San Angelo,2
+United States,Texas,Seguin,2
+United States,Texas,Sherman,2
+United States,Texas,Spring Branch,2
+United States,Texas,Taylor,2
+United States,Texas,Tomball,2
+United States,Texas,Tyler,2
+United States,Texas,Waxahachie,2
+United States,Texas,del Valle,2
+United States,Texas,Adkins,1
+United States,Texas,Alpine,1
+United States,Texas,Aound Rock,1
+United States,Texas,Aransas Pass,1
+United States,Texas,Athens,1
+United States,Texas,Bandera,1
+United States,Texas,Bedford,1
+United States,Texas,Bellville,1
+United States,Texas,Bertram,1
+United States,Texas,Blanco,1
+United States,Texas,Brenham,1
+United States,Texas,Brookshire,1
+United States,Texas,Buda,1
+United States,Texas,Bulverde,1
+United States,Texas,Canutillo,1
+United States,Texas,Canyon Lake,1
+United States,Texas,Cisco,1
+United States,Texas,Cypress,1
+United States,Texas,Denison,1
+United States,Texas,Driftwood,1
+United States,Texas,Eola,1
+United States,Texas,Goliad,1
+United States,Texas,Granbury,1
+United States,Texas,Granger,1
+United States,Texas,Grapevine,1
+United States,Texas,Greenville,1
+United States,Texas,Humble,1
+United States,Texas,Johnson City,1
+United States,Texas,Justin,1
+United States,Texas,Keller,1
+United States,Texas,Lockhart,1
+United States,Texas,Longview,1
+United States,Texas,Lovelady,1
+United States,Texas,Lufkin,1
+United States,Texas,Magnolia,1
+United States,Texas,Mansfield,1
+United States,Texas,Marathon,1
+United States,Texas,Mathis,1
+United States,Texas,Mcallen,1
+United States,Texas,Midland,1
+United States,Texas,Mission,1
+United States,Texas,Missouri City,1
+United States,Texas,Odessa,1
+United States,Texas,Pasadena,1
+United States,Texas,Pharr,1
+United States,Texas,Pittsburg,1
+United States,Texas,Port Lavaca,1
+United States,Texas,Port Neches,1
+United States,Texas,Porter,1
+United States,Texas,Rio Grande City,1
+United States,Texas,Rowena,1
+United States,Texas,Rowlett,1
+United States,Texas,Royse City,1
+United States,Texas,Salado,1
+United States,Texas,San Saba,1
+United States,Texas,Seven Points,1
+United States,Texas,Shiner,1
+United States,Texas,South Padre Island,1
+United States,Texas,Spicewood,1
+United States,Texas,Sulphur Springs,1
+United States,Texas,Temple,1
+United States,Texas,The Woodlands,1
+United States,Texas,Webster,1
+United States,Texas,Weslaco,1
+United States,Texas,Wichita Falls,1
+United States,Texas,Wimberley,1
+United States,Texas,Winnsboro,1
+United States,Texas,Wylie,1
+United States,Utah,Salt Lake City,22
+United States,Utah,Ogden,4
+United States,Utah,Midvale,3
+United States,Utah,Park City,3
+United States,Utah,Moab,2
+United States,Utah,Vernal,2
+United States,Utah,Cedar City,1
+United States,Utah,Helper,1
+United States,Utah,Layton,1
+United States,Utah,Saint George,1
+United States,Utah,Sandy,1
+United States,Utah,Springdale,1
+United States,Utah,Springville,1
+United States,Utah,Tooele,1
+United States,Utah,salt lake city,1
+United States,Vermont,Burlington,7
+United States,Vermont,Brattleboro,3
+United States,Vermont,South Burlington,3
+United States,Vermont,Bennington,2
+United States,Vermont,Bristol,2
+United States,Vermont,Middlebury,2
+United States,Vermont,Morrisville,2
+United States,Vermont,Stowe,2
+United States,Vermont,Waterbury,2
+United States,Vermont,Williston,2
+United States,Vermont,Arlington,1
+United States,Vermont,Barre,1
+United States,Vermont,Brandon,1
+United States,Vermont,Bridgewater Corners,1
+United States,Vermont,Chelsea,1
+United States,Vermont,Danville,1
+United States,Vermont,Essex Junction,1
+United States,Vermont,Greensboro Bend,1
+United States,Vermont,Hinesburg,1
+United States,Vermont,Hyde Park,1
+United States,Vermont,Jacksonville,1
+United States,Vermont,Jeffersonville,1
+United States,Vermont,Marlboro,1
+United States,Vermont,Newport,1
+United States,Vermont,Northfield,1
+United States,Vermont,Norwich,1
+United States,Vermont,Proctorsville,1
+United States,Vermont,Randolph,1
+United States,Vermont,Richmond,1
+United States,Vermont,Rutland,1
+United States,Vermont,Saint Albans,1
+United States,Vermont,Saint Albans City,1
+United States,Vermont,Saint Johnsbury,1
+United States,Vermont,Shelburne,1
+United States,Vermont,Springfield,1
+United States,Vermont,Warren,1
+United States,Vermont,West Burke,1
+United States,Vermont,Westford,1
+United States,Vermont,Weston,1
+United States,Vermont,White River Junction,1
+United States,Vermont,Windsor,1
+United States,Vermont,Winooski,1
+United States,Virginia,Richmond,25
+United States,Virginia,Virginia Beach,12
+United States,Virginia,Leesburg,10
+United States,Virginia,Fredericksburg,9
+United States,Virginia,Manassas,9
+United States,Virginia,Norfolk,9
+United States,Virginia,Charlottesville,7
+United States,Virginia,Purcellville,7
+United States,Virginia,Ashburn,6
+United States,Virginia,Williamsburg,6
+United States,Virginia,Alexandria,5
+United States,Virginia,Staunton,5
+United States,Virginia,Sterling,5
+United States,Virginia,Hampton,4
+United States,Virginia,Harrisonburg,4
+United States,Virginia,Midlothian,4
+United States,Virginia,Blacksburg,3
+United States,Virginia,Chantilly,3
+United States,Virginia,Culpeper,3
+United States,Virginia,Falls Church,3
+United States,Virginia,Lorton,3
+United States,Virginia,Roanoke,3
+United States,Virginia,Salem,3
+United States,Virginia,Waynesboro,3
+United States,Virginia,Winchester,3
+United States,Virginia,Afton,2
+United States,Virginia,Arlington,2
+United States,Virginia,Bluemont,2
+United States,Virginia,Bristol,2
+United States,Virginia,Crozet,2
+United States,Virginia,Danville,2
+United States,Virginia,Dulles,2
+United States,Virginia,Herndon,2
+United States,Virginia,Petersburg,2
+United States,Virginia,Portsmouth,2
+United States,Virginia,Smithfield,2
+United States,Virginia,Sperryville,2
+United States,Virginia,Warrenton,2
+United States,Virginia,Woodbridge,2
+United States,Virginia,Abingdon,1
+United States,Virginia,Aldie,1
+United States,Virginia,Amherst,1
+United States,Virginia,Appomattox,1
+United States,Virginia,Arrington,1
+United States,Virginia,Ashland,1
+United States,Virginia,Axton,1
+United States,Virginia,Bedford,1
+United States,Virginia,Boones Mill,1
+United States,Virginia,Brandy Station,1
+United States,Virginia,Broad Run,1
+United States,Virginia,Brookneal,1
+United States,Virginia,Callaway,1
+United States,Virginia,Cape Charles,1
+United States,Virginia,Centreville,1
+United States,Virginia,Chesapeake,1
+United States,Virginia,Chincoteague,1
+United States,Virginia,Clifton Forge,1
+United States,Virginia,Daleville,1
+United States,Virginia,Damascus,1
+United States,Virginia,Delaplane,1
+United States,Virginia,Edinburg,1
+United States,Virginia,Elkton,1
+United States,Virginia,Fairfax,1
+United States,Virginia,Fairlawn,1
+United States,Virginia,Floyd,1
+United States,Virginia,Forest,1
+United States,Virginia,Fort Monroe,1
+United States,Virginia,Front Royal,1
+United States,Virginia,Gainesville,1
+United States,Virginia,Galax,1
+United States,Virginia,Glen Allen,1
+United States,Virginia,Gloucester,1
+United States,Virginia,Goochland,1
+United States,Virginia,Goodview,1
+United States,Virginia,Hardy,1
+United States,Virginia,Henrico,1
+United States,Virginia,Lake Ridge,1
+United States,Virginia,Lansdowne,1
+United States,Virginia,Lebanon,1
+United States,Virginia,Lexington,1
+United States,Virginia,Louisa,1
+United States,Virginia,Lovingston,1
+United States,Virginia,Luray,1
+United States,Virginia,Madison,1
+United States,Virginia,Manquin,1
+United States,Virginia,Mc Lean,1
+United States,Virginia,Middleburg,1
+United States,Virginia,Middletown,1
+United States,Virginia,Mineral,1
+United States,Virginia,Montross,1
+United States,Virginia,Narrows,1
+United States,Virginia,Natural Bridge,1
+United States,Virginia,Nellysford,1
+United States,Virginia,Newport News,1
+United States,Virginia,Nokesville,1
+United States,Virginia,Poquoson,1
+United States,Virginia,Powhatan,1
+United States,Virginia,Radford,1
+United States,Virginia,Reston,1
+United States,Virginia,Rockville,1
+United States,Virginia,Roseland,1
+United States,Virginia,Round Hill,1
+United States,Virginia,Saint Paul,1
+United States,Virginia,Scottsville,1
+United States,Virginia,Spotsylvania,1
+United States,Virginia,Stafford,1
+United States,Virginia,Strasburg,1
+United States,Virginia,Suffolk,1
+United States,Virginia,Troutville,1
+United States,Virginia,Vienna,1
+United States,Virginia,Vinton,1
+United States,Virginia,Woodstock,1
+United States,Washington,Seattle,85
+United States,Washington,Spokane,31
+United States,Washington,Tacoma,21
+United States,Washington,Vancouver,21
+United States,Washington,Bellingham,17
+United States,Washington,Woodinville,16
+United States,Washington,Yakima,11
+United States,Washington,Bremerton,9
+United States,Washington,Snohomish,9
+United States,Washington,Everett,7
+United States,Washington,Walla Walla,7
+United States,Washington,Kirkland,6
+United States,Washington,Olympia,6
+United States,Washington,Poulsbo,6
+United States,Washington,Richland,6
+United States,Washington,Auburn,5
+United States,Washington,Gig Harbor,5
+United States,Washington,Monroe,5
+United States,Washington,Mount Vernon,5
+United States,Washington,Puyallup,5
+United States,Washington,Renton,5
+United States,Washington,Spokane Valley,5
+United States,Washington,Bothell,4
+United States,Washington,Burlington,4
+United States,Washington,Kenmore,4
+United States,Washington,Kent,4
+United States,Washington,Leavenworth,4
+United States,Washington,Redmond,4
+United States,Washington,Wenatchee,4
+United States,Washington,Arlington,3
+United States,Washington,Battle Ground,3
+United States,Washington,Cle Elum,3
+United States,Washington,Edmonds,3
+United States,Washington,Enumclaw,3
+United States,Washington,Issaquah,3
+United States,Washington,Kennewick,3
+United States,Washington,Lynnwood,3
+United States,Washington,Marysville,3
+United States,Washington,Moses Lake,3
+United States,Washington,Oak Harbor,3
+United States,Washington,Port Townsend,3
+United States,Washington,Tumwater,3
+United States,Washington,Vashon,3
+United States,Washington,Washougal,3
+United States,Washington,Anacortes,2
+United States,Washington,Bainbridge Island,2
+United States,Washington,Bellevue,2
+United States,Washington,Black Diamond,2
+United States,Washington,Blaine,2
+United States,Washington,Buckley,2
+United States,Washington,Burien,2
+United States,Washington,Camas,2
+United States,Washington,Carson,2
+United States,Washington,Cashmere,2
+United States,Washington,Centralia,2
+United States,Washington,Ellensburg,2
+United States,Washington,Ferndale,2
+United States,Washington,Friday Harbor,2
+United States,Washington,Kingston,2
+United States,Washington,Lake Stevens,2
+United States,Washington,Longview,2
+United States,Washington,Lopez Island,2
+United States,Washington,Manson,2
+United States,Washington,Mead,2
+United States,Washington,Mill Creek,2
+United States,Washington,Mukilteo,2
+United States,Washington,Oroville,2
+United States,Washington,Port Angeles,2
+United States,Washington,Prosser,2
+United States,Washington,Pullman,2
+United States,Washington,Ridgefield,2
+United States,Washington,Sequim,2
+United States,Washington,Silverdale,2
+United States,Washington,Snoqualmie,2
+United States,Washington,Sultan,2
+United States,Washington,Sumner,2
+United States,Washington,Sunnyside,2
+United States,Washington,Aberdeen,1
+United States,Washington,Airway Heights,1
+United States,Washington,Belfair,1
+United States,Washington,Bow,1
+United States,Washington,Camano Island,1
+United States,Washington,Carnation,1
+United States,Washington,Castle Rock,1
+United States,Washington,Cathlamet,1
+United States,Washington,Chehalis,1
+United States,Washington,Chelan,1
+United States,Washington,Cheney,1
+United States,Washington,Chewelah,1
+United States,Washington,Clarkston,1
+United States,Washington,Clinton,1
+United States,Washington,Colville,1
+United States,Washington,Concrete,1
+United States,Washington,Cowiche,1
+United States,Washington,Darrington,1
+United States,Washington,Dayton,1
+United States,Washington,Deer Park,1
+United States,Washington,Deming,1
+United States,Washington,Dupont,1
+United States,Washington,Duvall,1
+United States,Washington,Eastsound,1
+United States,Washington,Edgewood,1
+United States,Washington,Goldendale,1
+United States,Washington,Graham,1
+United States,Washington,Hoquiam,1
+United States,Washington,Kalama,1
+United States,Washington,Kelso,1
+United States,Washington,Kettle Falls,1
+United States,Washington,La Conner,1
+United States,Washington,Lacey,1
+United States,Washington,Lake Forest Park,1
+United States,Washington,Lakewood,1
+United States,Washington,Langley,1
+United States,Washington,Mountlake Terrace,1
+United States,Washington,Naches,1
+United States,Washington,Newport,1
+United States,Washington,North Bend,1
+United States,Washington,Odessa,1
+United States,Washington,Olalla,1
+United States,Washington,Pacific,1
+United States,Washington,Port Orchard,1
+United States,Washington,Quilcene,1
+United States,Washington,Republic,1
+United States,Washington,Roslyn,1
+United States,Washington,Ruston,1
+United States,Washington,Sammamish,1
+United States,Washington,Seaview,1
+United States,Washington,Shelton,1
+United States,Washington,Shoreline,1
+United States,Washington,Snoqualmie Pass,1
+United States,Washington,South Bend,1
+United States,Washington,Stanwood,1
+United States,Washington,Stevenson,1
+United States,Washington,Tenino,1
+United States,Washington,Toppenish,1
+United States,Washington,Tukwila,1
+United States,Washington,Waitsburg,1
+United States,Washington,Westport,1
+United States,Washington,White Salmon,1
+United States,Washington,Winthrop,1
+United States,Washington,Yarrow Point,1
+United States,Washington,Yelm,1
+United States,Washington,index,1
+United States,West Virginia,Charleston,3
+United States,West Virginia,Fayetteville,3
+United States,West Virginia,Berkeley Springs,2
+United States,West Virginia,Charles Town,2
+United States,West Virginia,Davis,2
+United States,West Virginia,Elkins,2
+United States,West Virginia,Morgantown,2
+United States,West Virginia,Parkersburg,2
+United States,West Virginia,Summersville,2
+United States,West Virginia,Wheeling,2
+United States,West Virginia,Beckley,1
+United States,West Virginia,Bruceton Mills,1
+United States,West Virginia,Clendenin,1
+United States,West Virginia,Ghent,1
+United States,West Virginia,Hillsboro,1
+United States,West Virginia,Huntington,1
+United States,West Virginia,Keyser,1
+United States,West Virginia,Martinsburg,1
+United States,West Virginia,Maxwelton,1
+United States,West Virginia,Princeton,1
+United States,West Virginia,Rippon,1
+United States,West Virginia,Rivesville,1
+United States,West Virginia,Shepherdstown,1
+United States,West Virginia,Snowshoe,1
+United States,West Virginia,Terra Alta,1
+United States,West Virginia,Thomas,1
+United States,West Virginia,Westover,1
+United States,West Virginia,White Sulphur Springs,1
+United States,Wisconsin,Milwaukee,31
+United States,Wisconsin,Madison,15
+United States,Wisconsin,Green Bay,8
+United States,Wisconsin,La Crosse,6
+United States,Wisconsin,Appleton,4
+United States,Wisconsin,Oshkosh,4
+United States,Wisconsin,Eau Claire,3
+United States,Wisconsin,Glendale,3
+United States,Wisconsin,Kenosha,3
+United States,Wisconsin,Manitowoc,3
+United States,Wisconsin,Oconomowoc,3
+United States,Wisconsin,Onalaska,3
+United States,Wisconsin,Stevens Point,3
+United States,Wisconsin,Waunakee,3
+United States,Wisconsin,Wausau,3
+United States,Wisconsin,Black River Falls,2
+United States,Wisconsin,Cedarburg,2
+United States,Wisconsin,Chilton,2
+United States,Wisconsin,Chippewa Falls,2
+United States,Wisconsin,Delafield,2
+United States,Wisconsin,Hudson,2
+United States,Wisconsin,Janesville,2
+United States,Wisconsin,Lake Mills,2
+United States,Wisconsin,Menasha,2
+United States,Wisconsin,Menomonie,2
+United States,Wisconsin,Monroe,2
+United States,Wisconsin,Neenah,2
+United States,Wisconsin,New Glarus,2
+United States,Wisconsin,Plover,2
+United States,Wisconsin,Potosi,2
+United States,Wisconsin,Racine,2
+United States,Wisconsin,River Falls,2
+United States,Wisconsin,Sheboygan,2
+United States,Wisconsin,Sturgeon Bay,2
+United States,Wisconsin,Superior,2
+United States,Wisconsin,Verona,2
+United States,Wisconsin,Waukesha,2
+United States,Wisconsin,West Bend,2
+United States,Wisconsin,Whitewater,2
+United States,Wisconsin,Wisconsin Dells,2
+United States,Wisconsin,de Pere,2
+United States,Wisconsin,Algoma,1
+United States,Wisconsin,Altoona,1
+United States,Wisconsin,Amery,1
+United States,Wisconsin,Amherst,1
+United States,Wisconsin,Arena,1
+United States,Wisconsin,Ashland,1
+United States,Wisconsin,Athens,1
+United States,Wisconsin,Baileys Harbor,1
+United States,Wisconsin,Baraboo,1
+United States,Wisconsin,Beaver Dam,1
+United States,Wisconsin,Belleville,1
+United States,Wisconsin,Bloomer,1
+United States,Wisconsin,Brookfield,1
+United States,Wisconsin,Clear Lake,1
+United States,Wisconsin,Coloma,1
+United States,Wisconsin,Columbus,1
+United States,Wisconsin,Cornell,1
+United States,Wisconsin,Cross Plains,1
+United States,Wisconsin,Dallas,1
+United States,Wisconsin,Darlington,1
+United States,Wisconsin,De Pere,1
+United States,Wisconsin,Eagle River,1
+United States,Wisconsin,East Troy,1
+United States,Wisconsin,Egg Harbor,1
+United States,Wisconsin,Elkhart Lake,1
+United States,Wisconsin,Elkhorn,1
+United States,Wisconsin,Fall Creek,1
+United States,Wisconsin,Fitchburg,1
+United States,Wisconsin,Fort Atkinson,1
+United States,Wisconsin,Fountain City,1
+United States,Wisconsin,Grafton,1
+United States,Wisconsin,Greendale,1
+United States,Wisconsin,Greenleaf,1
+United States,Wisconsin,Hartland,1
+United States,Wisconsin,Hayward,1
+United States,Wisconsin,Hillsboro,1
+United States,Wisconsin,Lake Geneva,1
+United States,Wisconsin,Luxemburg,1
+United States,Wisconsin,Manitowish Waters,1
+United States,Wisconsin,Marinette,1
+United States,Wisconsin,Marion,1
+United States,Wisconsin,Marshfield,1
+United States,Wisconsin,Mequon,1
+United States,Wisconsin,Merrill,1
+United States,Wisconsin,Middleton,1
+United States,Wisconsin,Mineral Point,1
+United States,Wisconsin,Minocqua,1
+United States,Wisconsin,Mount Horeb,1
+United States,Wisconsin,Mount Pleasant,1
+United States,Wisconsin,Mukwonago,1
+United States,Wisconsin,New Richmond,1
+United States,Wisconsin,Oak Creek,1
+United States,Wisconsin,Omro,1
+United States,Wisconsin,Osseo,1
+United States,Wisconsin,Plum City,1
+United States,Wisconsin,Plymouth,1
+United States,Wisconsin,Port Washington,1
+United States,Wisconsin,Reedsburg,1
+United States,Wisconsin,Rhinelander,1
+United States,Wisconsin,Rice Lake,1
+United States,Wisconsin,Richland Center,1
+United States,Wisconsin,Ripon,1
+United States,Wisconsin,Roberts,1
+United States,Wisconsin,Rosholt,1
+United States,Wisconsin,Saint Croix Falls,1
+United States,Wisconsin,Saint Francis,1
+United States,Wisconsin,Sauk City,1
+United States,Wisconsin,Soldiers Grove,1
+United States,Wisconsin,Somerset,1
+United States,Wisconsin,Stoughton,1
+United States,Wisconsin,Two Rivers,1
+United States,Wisconsin,Warrens,1
+United States,Wisconsin,Washburn,1
+United States,Wisconsin,Waterloo,1
+United States,Wisconsin,West Allis,1
+United States,Wisconsin,Whitehall,1
+United States,Wisconsin,Wilson,1
+United States,Wisconsin,Woodruff,1
+United States,Wyoming,Casper,8
+United States,Wyoming,Cheyenne,5
+United States,Wyoming,Cody,5
+United States,Wyoming,Laramie,5
+United States,Wyoming,Jackson,4
+United States,Wyoming,Rock Springs,3
+United States,Wyoming,Sheridan,3
+United States,Wyoming,Buffalo,2
+United States,Wyoming,Gillette,2
+United States,Wyoming,Powell,2
+United States,Wyoming,Alpine,1
+United States,Wyoming,Douglas,1
+United States,Wyoming,Evanston,1
+United States,Wyoming,Glenrock,1
+United States,Wyoming,Green River,1
+United States,Wyoming,Jackson Hole,1
+United States,Wyoming,Lander,1
+United States,Wyoming,Pinedale,1
+United States,Wyoming,Ranchester,1
+United States,Wyoming,Saratoga,1
+United States,Wyoming,Ten Sleep,1
+United States,Wyoming,Thermopolis,1
+United States,Wyoming,Torrington,1

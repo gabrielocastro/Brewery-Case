@@ -1,0 +1,38 @@
+id,name,brewery_type,address_1,city,state_province,postal_code,country,longitude,latitude,phone,website_url,state,processed_at
+b3bea277-345d-4154-9a79-1c9364ee0172,Aloha Sea Sports Centre,bar,1212 East Coast Parkway,Singapore,Singapore,449886,Singapore,1.306439441491,,6562419212,https://www.alohaseasports.com/bar,Singapore,2026-02-22 21:29:36
+8a28140f-79c5-493b-a9b7-3a494c9449fc,Bar Room,bar,899 East Coast Road,Singapore,Singapore,459102,Singapore,1.3128500369078,,6592652461,,Singapore,2026-02-22 21:29:36
+5e69d342-1efc-469e-bf8b-22d276c6d863,Berlin Craft Beer Experience,bar,Reichenberger Str. 176,Berlin,Berlin,10999,Germany,52.4995161,13.4168836,4915779216971,http://www.berlincraftbeerexperience.com/,Berlin,2026-02-22 21:29:36
+c75eb363-ba15-4f96-a3cf-d6462867a4e3,Berlin Craft Beer Experience,bar,Reichenberger Str. 176,Berlin,Berlin,10999,Germany,52.4995161,13.4168836,4915779216971,http://www.berlincraftbeerexperience.com/,Berlin,2026-02-22 21:29:36
+7db0fe62-fb6c-4949-9a25-d0f318959a1b,BrewDog Berlin Mitte,bar,Ackerstraße 29,Berlin,Berlin,10115,Germany,52.5170043,13.4132225,493048477770,https://www.brewdog.com/eu_de/brewdog-berlin-mitte,Berlin,2026-02-22 21:29:36
+e58d60d7-92f7-4f8d-8a1a-6d02c25a32ee,BrewDog Berlin Mitte,bar,Ackerstraße 29,Berlin,Berlin,10115,Germany,52.5170043,13.4132225,493048477770,https://www.brewdog.com/eu_de/brewdog-berlin-mitte,Berlin,2026-02-22 21:29:36
+6d35da2a-ee38-4b85-ba89-0cfd1180e4f5,Café Football,bar,920 East Coast Park,Singapore,Singapore,449875,Singapore,1.2990479159542,,6588277490,,Singapore,2026-02-22 21:29:36
+b04c9621-bb87-439d-a499-94cb432bde90,Cafe Luis,bar,Weizberg 7,Weiz,Steiermark,8160,Austria,15.635828044555,47.223789228965,4331723924,,Steiermark,2026-02-22 21:29:36
+0acbc5f2-6427-46e0-8302-7c26017975ec,Café Wolfgang Ranner,bar,20 Eastwood Road,Singapore,Singapore,486442,Singapore,1.3215789923362,,6591180336,https://ranner.sg/,Singapore,2026-02-22 21:29:36
+9355bc7c-bdc7-40c3-8932-e840c996ed86,Caf� Okei,bar,Feldkirchenstra�e 40,Kalsdorf bei Graz,Steiermark,8401,Austria,15.460420275615,46.971319127868,43313557156,https://okei.at,Steiermark,2026-02-22 21:29:36
+d832ea72-d8ca-4b3e-a7f0-679599883d89,Canjob Taproom,bar,50 Tiong Bahru Rd,Singapore,Singapore,168733,Singapore,103.8339047,1.2853965,93853497,https://www.canjobtaproom.com/,Singapore,2026-02-22 21:29:36
+db18bb6e-f763-4c39-a823-a961aa19c5a1,Coastal Rhythm,bar,1206A East Coast Parkway,Singapore,Singapore,449891,Singapore,1.3058550499371,,6566363705,https://www.coastalrhythm.sg/,Singapore,2026-02-22 21:29:36
+17f2475a-d7b2-4565-b9c3-cfccbb44a5cf,Desi Firangi,bar,97 East Coast Road,Singapore,Singapore,428794,Singapore,1.3058652675834,,6585184250,https://www.desifirangi.sg/,Singapore,2026-02-22 21:29:36
+e82fff5f-5eb0-4a01-bd19-94a27691a925,Front Street Taproom,bar,614 Main Ave,Fargo,North Dakota,58103-1945,United States,-96.78887169,46.87489994,7015667226,http://www.frontstreettaproom.com,North Dakota,2026-02-22 21:29:36
+6d718d37-3a1f-4eff-91da-6857bbe5756b,Hubs,bar,889 East Coast Road,Singapore,Singapore,459092,Singapore,1.312782811522,,6569088037,https://hubs.sg/,Singapore,2026-02-22 21:29:36
+21ba3bb4-b9ec-47c9-8e95-eda8f7f5b410,Iza Local Izakaya,bar,695E East Coast Road,Singapore,Singapore,459059,Singapore,1.3118909225065,,6563852883,,Singapore,2026-02-22 21:29:36
+cc7a08ca-f10b-4cc8-9dc2-a585d0b2fc61,Jags@Siglap,bar,922 East Coast Road,Singapore,Singapore,459114,Singapore,1.312338406799,,6562412168,https://jags.com.sg/,Singapore,2026-02-22 21:29:36
+151050ee-ccee-4ff2-98b3-4b2be567de2c,JagWine,bar,384 East Coast Road,Singapore,Singapore,428988,Singapore,1.3088733714989,,6563481778,https://www.jagwine.com/,Singapore,2026-02-22 21:29:36
+218545f9-4d45-424e-be42-1e9fca19dc5c,Kei Bar,bar,378 East Coast Road,Singapore,Singapore,428985,Singapore,1.3087788892434,,6582926363,,Singapore,2026-02-22 21:29:36
+20063b5b-6218-44c5-bc19-932339a6b2d1,Lazy Sloth & Drunken Sloth,bar,41 East Coast Road,Singapore,Singapore,428761,Singapore,1.3050925197507,,6562413933,,Singapore,2026-02-22 21:29:36
+23a4fc72-237e-48fd-b06f-4484d8fc7ef7,Legacy,bar,274 East Coast Road,Singapore,Singapore,428942,Singapore,1.3082136591314,,,,Singapore,2026-02-22 21:29:36
+4565a652-7e93-45d2-957b-738bb0b5a63b,Lower East Side,bar,19 East Coast Road,Singapore,Singapore,428746,Singapore,1.3045852951217,,6563481302,,Singapore,2026-02-22 21:29:36
+7239ab18-8f23-4c56-9b53-27187bc0ab6b,Masala Bar,bar,723 East Coast Road,Singapore,Singapore,459071,Singapore,1.3125188161613,,6562824648,https://www.masalaabar.com/,Singapore,2026-02-22 21:29:36
+0686cabe-b090-4b23-a821-2ae7c08c49c0,Matties,bar,2535 Mountain City Hwy,Elko,Nevada,89801-4496,United States,-115.793393,40.836405,7757535100,http://www.mattiesbar-n-grill.com/,Nevada,2026-02-22 21:29:36
+6c38c54f-6e64-44f9-b2e6-3d435c540b29,Mels Place,bar,2A Kuo Chuan Ave,Singapore,Singapore,426897,Singapore,1.3077475195213,,6564403573,https://melsplace.com.sg/,Singapore,2026-02-22 21:29:36
+e5d8969a-c6b8-4931-901b-0ba2222bcd63,Mikkeller Berlin,bar,Torstraße 102,Berlin,Berlin,10119,Germany,52.5285769,13.3942421,,https://mikkeller.com/locations/mikkeller-berlin,Berlin,2026-02-22 21:29:36
+d36e2c31-cee2-4199-ad4a-8cdf13cb4e51,Mooloolabar,bar,20 East Coast Road,Singapore,Singapore,428747,Singapore,1.3043386240433,,6585004488,,Singapore,2026-02-22 21:29:36
+249bc0e5-0816-45db-98f3-adfdf97ac144,OMD Café,bar,12 East Coast Road,Singapore,Singapore,428723,Singapore,1.3041909416563,,6587833494,,Singapore,2026-02-22 21:29:36
+d74c242a-21e2-4817-873b-1314dff7770f,Patro's Sports Bar and Restaurant,bar,920 East Coast Park,Singapore,Singapore,449875,Singapore,1.2992922288778,,6564409372,,Singapore,2026-02-22 21:29:36
+886981c9-f7df-4bc6-8d39-193176fe3d15,Pigsfly Kitchen and Bar,bar,19 East Coast Road,Singapore,Singapore,428746,Singapore,1.3045323352254,,6563482283,,Singapore,2026-02-22 21:29:36
+4d2fe5ef-0674-47fc-9c31-f88b75f2056a,Platypus,bar,1 Raffles Link,Singapore,Singapore,039393,Singapore,1.2930832027367,,6569081773,https://platypuscantina.net/,Singapore,2026-02-22 21:29:36
+5b10f972-8107-42f7-8023-85845934982d,Platypus,bar,693 East Coast Road,Singapore,Singapore,459058,Singapore,1.3119000040122,,6563203601,https://platypuscantina.net/,Singapore,2026-02-22 21:29:36
+4073c00b-a6c5-4b1f-b9fd-3671fc10cff9,Q-wa Bar Yakitori,bar,39 East Coast Road,Singapore,Singapore,428756,Singapore,1.3049374192657,,6563489938,,Singapore,2026-02-22 21:29:36
+dd5de877-b112-412e-a58e-5b704fd71f92,Santai,bar,697D East Coast Road,Singapore,Singapore,459060,Singapore,1.3120292964811,,6597324742,,Singapore,2026-02-22 21:29:36
+e31f2a40-51ea-433b-ab68-a327ddd1d59b,The Runway Café and Bar,bar,20 Eastwood Road,Singapore,Singapore,486442,Singapore,1.3217099857977,,6598595348,,Singapore,2026-02-22 21:29:36
+398dfc78-dc36-4579-9f18-7240f4bf24a3,Winery @Springvale,bar,907 East Coast Road,Singapore,Singapore,459107,Singapore,1.3129317454798,,6596433188,https://www.thewinery.com.sg/siglap/,Singapore,2026-02-22 21:29:36
+66dad51b-f958-4aed-b924-8838dbc68937,Winery Tapas Bar @Chijmes,bar,30 Victoria Street,Singapore,Singapore,187996,Singapore,1.2951320828701,,6583888850,https://www.thewinery.com.sg/chijmes/,Singapore,2026-02-22 21:29:36

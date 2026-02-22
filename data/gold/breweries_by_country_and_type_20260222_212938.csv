@@ -1,0 +1,61 @@
+country,brewery_type,brewery_count
+Australia,micro,491
+Australia,large,22
+Australia,regional,1
+Austria,large,10
+Austria,bar,2
+Austria,nano,2
+Austria,brewpub,1
+Canada,micro,54
+Canada,brewpub,44
+Canada,closed,12
+Canada,unknown,6
+Canada,regional,3
+England,micro,40
+England,taproom,11
+England,brewpub,10
+England,large,1
+France,micro,3
+Germany,bar,5
+Germany,unknown,3
+Germany,large,2
+Ireland,micro,49
+Ireland,brewpub,9
+Ireland,regional,9
+Ireland,large,3
+Isle of Man,micro,2
+Italy,large,1
+Italy,micro,1
+Italy,nano,1
+Italy,regional,1
+Japan,brewpub,6
+Japan,micro,4
+Poland,micro,20
+Poland,brewpub,11
+Poland,regional,3
+Portugal,brewpub,7
+Portugal,micro,7
+Scotland,micro,9
+Scotland,closed,1
+Singapore,bar,28
+Singapore,brewpub,4
+Singapore,large,1
+South Africa,micro,59
+South Africa,brewpub,44
+South Africa,unknown,1
+South Korea,brewpub,56
+South Korea,micro,5
+Sweden,micro,10
+Ukraine,micro,1
+United States,micro,4156
+United States,brewpub,2428
+United States,planning,649
+United States,closed,348
+United States,regional,213
+United States,contract,184
+United States,large,73
+United States,proprietor,68
+United States,taproom,34
+United States,nano,19
+United States,bar,2
+United States,unknown,1

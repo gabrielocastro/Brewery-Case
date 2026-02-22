@@ -1,0 +1,12 @@
+id,name,brewery_type,address_1,city,state_province,postal_code,country,longitude,latitude,phone,website_url,state,processed_at
+7dfe1cd0-401a-46f2-a01f-3c74b0741eeb,BC Tree Fruits Cider Co. Brewery,unknown,880 Vaughan Ave,Kelowna,British Columbia,V1Y 7E4,Canada,-119.484,49.8942,,,British Columbia,2026-02-22 21:29:36
+69bdb3dd-708a-430b-ac8c-5346f382f0d3,Birgit,unknown,Schleusenufer 3,Berlin,Berlin,10997,Germany,52.5093176,13.4123414,491725746904,https://www.birgit.club/,Berlin,2026-02-22 21:29:36
+e378bee7-0f89-4de4-97f3-abfa0e5a4752,Dominion Cider Co. Brewery,unknown,10216 Gould Avenue,Summerland,British Columbia,V0H1Z8,Canada,-119.6925893,49.5898294,17785168006,http://dominioncider.com/,British Columbia,2026-02-22 21:29:36
+b3128b43-31c0-420c-b2c0-5638c97aea95,Golgatha Biergarten,unknown,Katzbachstraße &  Monumentenstraße,Berlin,Berlin,10965,Germany,52.4868139,13.3791632,,http://www.golgatha-berlin.de/,Berlin,2026-02-22 21:29:36
+b82ee348-f390-4de1-a996-87fcb2b76382,Kulshan Brewing Co - Trackside,unknown,298 W Laurel St,Bellingham,Washington,98225,United States,-122.485461,48.748621,3603895348,https://kulshanbrewing.com/trackside,Washington,2026-02-22 21:29:36
+1eceaae9-bef4-411f-90b6-ecee0bb75282,Left Field Cider Co. Brewery,unknown,5977 BC-97C,Logan Lake,British Columbia,V0K 1W0,Canada,-120.8152537,50.4911515,12504486991,http://www.leftfieldcider.com,British Columbia,2026-02-22 21:29:36
+06b3aef6-951b-4db7-a602-785f90feb728,Loxtonia Cider,unknown,Loxtonia Farm,Ceres,Western Cape,6835,South Africa,19.2845,-33.2431,27230040930,https://www.loxtonia.co.za/,Western Cape,2026-02-22 21:29:36
+d31e245b-ff12-47d8-9692-5aeb89413e71,Nomad Handcrafted Cider Brewery,unknown,8011 Simpson Rd,Summerland,British Columbia,V0H 1Z0,Canada,-119.6768815,49.6073297,12504696601,http://www.nomadcider.ca/,British Columbia,2026-02-22 21:29:36
+53c24b39-49a6-495d-8048-4412389cb450,Prater Beer Garden,unknown,Kastanienallee 7-9,Berlin,Berlin,10435,Germany,52.5285752,13.3942421,,https://www.prater-biergarten.de/,Berlin,2026-02-22 21:29:36
+af3227e6-c7fa-4bcc-b86f-ab32f3986a54,Sea Cider Farm & Ciderhouse Brewery,unknown,2487 Mt. St. Michael Rd,Saanichton,British Columbia,V8M 1S8,Canada,-123.3971074,48.6031683,12505444824,http://seacider.ca/,British Columbia,2026-02-22 21:29:36
+86446c78-3aef-494b-a60f-828ee6bb855d,The Naramata Cider Company Brewery,unknown,225 Robinson Avenue,Naramata,British Columbia,V0H 1N0,Canada,-119.6010588,49.5977002,12504965522,http://www.naramatacider.com/,British Columbia,2026-02-22 21:29:36

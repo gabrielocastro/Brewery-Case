@@ -1,0 +1,456 @@
+brewery_type,state_province,brewery_count
+micro,ACT,7
+micro,Alabama,26
+closed,Alabama,15
+brewpub,Alabama,5
+planning,Alabama,3
+taproom,Alabama,3
+micro,Alaska,28
+brewpub,Alaska,18
+closed,Alaska,7
+taproom,Alaska,4
+contract,Alaska,1
+planning,Alaska,1
+regional,Alaska,1
+micro,Argyll,4
+micro,Arizona,59
+brewpub,Arizona,46
+planning,Arizona,13
+contract,Arizona,4
+large,Arizona,2
+regional,Arizona,1
+micro,Arkansas,22
+brewpub,Arkansas,18
+planning,Arkansas,4
+contract,Arkansas,1
+brewpub,Aveiro,1
+micro,Aveiro,1
+brewpub,Beja,1
+bar,Berlin,5
+unknown,Berlin,3
+large,Berlin,2
+micro,Blekinge,6
+large,Bolzano,1
+micro,Bolzano,1
+nano,Bolzano,1
+regional,Bolzano,1
+micro,Bouche du Rhône,3
+micro,British Columbia,54
+brewpub,British Columbia,44
+closed,British Columbia,12
+unknown,British Columbia,6
+regional,British Columbia,3
+brewpub,Busan,8
+micro,Busan,1
+closed,Bute,1
+micro,California,466
+brewpub,California,254
+planning,California,64
+closed,California,51
+regional,California,29
+contract,California,27
+large,California,15
+proprietor,California,13
+micro,Carlow,1
+brewpub,Chungcheongbukdo,1
+micro,Chungcheongnamdo,2
+brewpub,Chungcheongnamdo,1
+brewpub,Clare,1
+brewpub,Coimbra,1
+micro,Colorado,228
+brewpub,Colorado,142
+planning,Colorado,39
+regional,Colorado,11
+closed,Colorado,9
+contract,Colorado,9
+large,Colorado,7
+proprietor,Colorado,4
+micro,Connecticut,41
+closed,Connecticut,22
+planning,Connecticut,15
+brewpub,Connecticut,10
+contract,Connecticut,5
+regional,Connecticut,1
+micro,Cork,5
+brewpub,Cork,3
+large,Cork,2
+regional,Cork,1
+brewpub,Daejeon,1
+brewpub,Deagu,1
+brewpub,Delaware,14
+micro,Delaware,10
+planning,Delaware,2
+large,Delaware,1
+regional,Delaware,1
+closed,District of Columbia,7
+micro,District of Columbia,5
+taproom,District of Columbia,4
+brewpub,District of Columbia,3
+contract,District of Columbia,2
+regional,District of Columbia,1
+micro,Dnipropetrovsk Oblast,1
+micro,Donegal,3
+regional,Donegal,1
+micro,Dublin,10
+brewpub,Dublin,3
+regional,Dublin,2
+large,Dublin,1
+micro,East Dunbartonshire,1
+micro,East Sussex,21
+brewpub,East Sussex,5
+taproom,East Sussex,4
+large,East Sussex,1
+micro,Eastern Cape,5
+brewpub,Eastern Cape,4
+micro,Faro,1
+micro,Florida,190
+brewpub,Florida,65
+planning,Florida,38
+contract,Florida,6
+regional,Florida,5
+large,Florida,4
+proprietor,Florida,4
+micro,Free State,2
+brewpub,Free State,1
+regional,Galway,2
+micro,Galway,1
+brewpub,Gangwondo,7
+micro,Gauteng,10
+brewpub,Gauteng,7
+micro,Georgia,47
+brewpub,Georgia,25
+planning,Georgia,19
+large,Georgia,3
+regional,Georgia,3
+contract,Georgia,2
+proprietor,Georgia,1
+brewpub,Gwangju,1
+brewpub,Gyeonggido,8
+micro,Gyeonggido,1
+brewpub,Gyeongsangbukdo,2
+micro,Gyeongsangbukdo,1
+brewpub,Gyeongsangnamdo,3
+micro,Halland,4
+brewpub,Hawaii,18
+closed,Hawaii,6
+taproom,Hawaii,5
+micro,Hawaii,4
+regional,Hawaii,1
+micro,Idaho,36
+brewpub,Idaho,23
+closed,Idaho,5
+contract,Idaho,1
+large,Idaho,1
+proprietor,Idaho,1
+micro,Illinois,123
+brewpub,Illinois,88
+planning,Illinois,23
+contract,Illinois,11
+proprietor,Illinois,5
+large,Illinois,4
+regional,Illinois,3
+brewpub,Incheon,2
+brewpub,Indiana,76
+micro,Indiana,60
+planning,Indiana,20
+regional,Indiana,3
+contract,Indiana,2
+proprietor,Indiana,1
+micro,Iowa,56
+brewpub,Iowa,32
+closed,Iowa,2
+contract,Iowa,1
+brewpub,Jejudo,3
+brewpub,Jeollabukdo,3
+brewpub,Jeollanamdo,1
+brewpub,Kansas,20
+micro,Kansas,18
+planning,Kansas,7
+proprietor,Kansas,1
+regional,Kansas,1
+micro,Kentucky,41
+brewpub,Kentucky,12
+planning,Kentucky,3
+contract,Kentucky,1
+regional,Kentucky,1
+micro,Kerry,2
+brewpub,Kerry,1
+micro,Kildare,3
+regional,Kilkenny,2
+micro,Kilkenny,1
+micro,KwaZulu-Natal,10
+brewpub,KwaZulu-Natal,7
+large,K�rnten,2
+nano,K�rnten,1
+micro,Laois,2
+brewpub,Leiria,1
+micro,Limerick,2
+micro,Limpopo,1
+micro,Lisboa,3
+brewpub,Lisboa,2
+micro,Longford,1
+micro,Louisiana,27
+closed,Louisiana,6
+brewpub,Louisiana,5
+planning,Louisiana,5
+regional,Louisiana,1
+micro,Louth,1
+micro,MIssouri,1
+micro,Maine,70
+brewpub,Maine,31
+planning,Maine,7
+regional,Maine,3
+contract,Maine,2
+proprietor,Maine,1
+micro,Maryland,79
+brewpub,Maryland,30
+closed,Maryland,30
+nano,Maryland,7
+planning,Maryland,5
+contract,Maryland,3
+regional,Maryland,3
+proprietor,Maryland,1
+micro,Massachusetts,92
+brewpub,Massachusetts,34
+planning,Massachusetts,16
+regional,Massachusetts,12
+contract,Massachusetts,7
+proprietor,Massachusetts,2
+closed,Massachusetts,1
+micro,Mayo,2
+micro,Meath,1
+brewpub,Michigan,199
+micro,Michigan,143
+planning,Michigan,21
+regional,Michigan,9
+contract,Michigan,3
+micro,Middle,2
+micro,Minnesota,111
+brewpub,Minnesota,44
+planning,Minnesota,13
+regional,Minnesota,8
+contract,Minnesota,5
+proprietor,Minnesota,2
+micro,Mississippi,13
+brewpub,Mississippi,2
+contract,Mississippi,1
+planning,Mississippi,1
+micro,Missouri,66
+brewpub,Missouri,46
+closed,Missouri,13
+regional,Missouri,8
+planning,Missouri,3
+proprietor,Missouri,3
+contract,Missouri,1
+large,Missouri,1
+micro,Monaghan,1
+micro,Montana,61
+brewpub,Montana,17
+planning,Montana,10
+contract,Montana,2
+regional,Montana,2
+brewpub,Mpumalanga,3
+micro,NSW,141
+large,NSW,3
+micro,NT,3
+micro,Nebraska,35
+brewpub,Nebraska,21
+planning,Nebraska,4
+closed,Nebraska,2
+micro,Nevada,22
+brewpub,Nevada,20
+planning,Nevada,5
+contract,Nevada,3
+bar,Nevada,1
+micro,New Hampshire,43
+brewpub,New Hampshire,40
+closed,New Hampshire,20
+planning,New Hampshire,7
+large,New Hampshire,1
+nano,New Hampshire,1
+regional,New Hampshire,1
+micro,New Jersey,79
+brewpub,New Jersey,16
+planning,New Jersey,14
+contract,New Jersey,4
+large,New Jersey,1
+regional,New Jersey,1
+brewpub,New Mexico,44
+micro,New Mexico,30
+planning,New Mexico,5
+regional,New Mexico,2
+contract,New Mexico,1
+proprietor,New Mexico,1
+micro,New York,226
+brewpub,New York,111
+planning,New York,37
+contract,New York,22
+proprietor,New York,10
+regional,New York,9
+large,New York,4
+large,Nieder�sterreich,2
+micro,North Carolina,185
+brewpub,North Carolina,73
+planning,North Carolina,28
+regional,North Carolina,13
+contract,North Carolina,5
+large,North Carolina,4
+proprietor,North Carolina,3
+micro,North Dakota,12
+brewpub,North Dakota,8
+closed,North Dakota,3
+nano,North Dakota,2
+bar,North Dakota,1
+brewpub,North West,2
+micro,North West,1
+large,Oberösterreich,1
+nano,Oberösterreich,1
+micro,Offaly,2
+micro,Ohio,163
+brewpub,Ohio,94
+planning,Ohio,26
+regional,Ohio,9
+contract,Ohio,7
+large,Ohio,2
+closed,Ohio,1
+proprietor,Ohio,1
+micro,Oklahoma,30
+brewpub,Oklahoma,5
+contract,Oklahoma,4
+planning,Oklahoma,4
+closed,Oklahoma,1
+micro,Oregon,142
+brewpub,Oregon,106
+regional,Oregon,13
+planning,Oregon,12
+closed,Oregon,11
+large,Oregon,6
+contract,Oregon,3
+proprietor,Oregon,2
+brewpub,Osaka,6
+micro,Osaka,4
+brewpub,Pennsylvania,158
+micro,Pennsylvania,129
+planning,Pennsylvania,36
+regional,Pennsylvania,13
+contract,Pennsylvania,6
+proprietor,Pennsylvania,2
+taproom,Pennsylvania,1
+micro,Portalegre,1
+brewpub,Porto,1
+micro,Porto,1
+micro,QLD,79
+large,QLD,2
+micro,Rhode Island,20
+brewpub,Rhode Island,9
+proprietor,Rhode Island,1
+regional,Rhode Island,1
+micro,Roscommon,1
+micro,SA,43
+large,SA,4
+large,Salzburg,1
+brewpub,Seoul,14
+bar,Singapore,28
+brewpub,Singapore,4
+large,Singapore,1
+micro,Sligo,2
+micro,South Carolina,38
+brewpub,South Carolina,29
+planning,South Carolina,8
+regional,South Carolina,2
+closed,South Carolina,1
+contract,South Carolina,1
+micro,South Dakota,24
+brewpub,South Dakota,15
+closed,South Dakota,2
+planning,South Dakota,2
+contract,South Dakota,1
+proprietor,South Dakota,1
+large,Steiermark,4
+bar,Steiermark,2
+brewpub,Steiermark,1
+micro,TAS,24
+large,TAS,2
+micro,Tennessee,63
+brewpub,Tennessee,24
+planning,Tennessee,18
+closed,Tennessee,5
+proprietor,Tennessee,2
+regional,Tennessee,2
+contract,Tennessee,1
+nano,Tennessee,1
+micro,Texas,196
+brewpub,Texas,77
+planning,Texas,56
+regional,Texas,10
+contract,Texas,6
+large,Texas,4
+closed,Texas,2
+proprietor,Texas,1
+micro,Tipperary,2
+micro,Utah,21
+brewpub,Utah,15
+closed,Utah,4
+planning,Utah,3
+regional,Utah,2
+micro,VIC,151
+large,VIC,8
+regional,VIC,1
+micro,Vermont,34
+brewpub,Vermont,16
+regional,Vermont,7
+planning,Vermont,2
+micro,Virginia,152
+brewpub,Virginia,56
+planning,Virginia,34
+contract,Virginia,5
+large,Virginia,5
+regional,Virginia,3
+micro,WA,43
+large,WA,3
+micro,Washington,245
+brewpub,Washington,109
+closed,Washington,103
+taproom,Washington,12
+regional,Washington,7
+nano,Washington,6
+planning,Washington,6
+contract,Washington,4
+large,Washington,3
+proprietor,Washington,2
+unknown,Washington,1
+micro,Waterford,2
+micro,West Dunbartonshire,4
+micro,West Sussex,19
+taproom,West Sussex,7
+brewpub,West Sussex,5
+micro,West Virginia,21
+brewpub,West Virginia,13
+closed,West Virginia,3
+nano,West Virginia,1
+planning,West Virginia,1
+proprietor,West Virginia,1
+micro,Western Cape,30
+brewpub,Western Cape,20
+unknown,Western Cape,1
+brewpub,Westmeath,1
+micro,Wexford,2
+micro,Wicklow,2
+regional,Wicklow,1
+micro,Wisconsin,99
+brewpub,Wisconsin,76
+contract,Wisconsin,14
+closed,Wisconsin,10
+planning,Wisconsin,9
+regional,Wisconsin,9
+large,Wisconsin,5
+proprietor,Wisconsin,2
+nano,Wisconsin,1
+micro,Wyoming,24
+brewpub,Wyoming,16
+closed,Wyoming,6
+taproom,Wyoming,5
+regional,Wyoming,1
+micro,dolnośląskie,20
+brewpub,dolnośląskie,11
+regional,dolnośląskie,3
